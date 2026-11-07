@@ -34,6 +34,9 @@ SESSION = {
     'auth_key': '', 'language': '0', 'parent_language': '0',
     'ad_info': 'dasss==', 'is_secure': '0', 'ads_app_id': 'local',
     'referrer': 'unknown', 'lc_name': 'local', 'hash': '',
+    '_social_type': 'vkontakte', '_app_key': 'local', '_app_key2': 'local',
+    '_app_link': f'http://127.0.0.1:{PORT}/', '_club_link': f'http://127.0.0.1:{PORT}/',
+    '_app_mode': 'local', '_upload_url': f'http://127.0.0.1:{PORT}/upload',
 }
 PROFILE = {
     'id': 145085, 'uid': '145085', 'user_id': '145085',
