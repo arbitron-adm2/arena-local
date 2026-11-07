@@ -19,7 +19,10 @@
 const ORIGIN = location.origin;
 const VERSION = new URLSearchParams(location.search).get('v') || '1.61.7';
 const IS_1633 = VERSION === '1.63.3';
+const PATCHED = new URLSearchParams(location.search).get('patched') === '1';
 window.RufflePlayer = { config: {
+    logLevel: 'info',
+    splashScreen: false,
   autoplay: 'on', unmuteOverlay: 'hidden', allowScriptAccess: true, letterbox: 'on',
   logLevel: 'info', backgroundExecutionMode: 'mainThread', maxExecutionDuration: 120,
   urlRewriteRules: [
@@ -69,7 +72,8 @@ async function start() {
   window.wxPlayer = RufflePlayer.newest().createPlayer();
   document.querySelector('#game').append(wxPlayer);
   try {
-    const url = IS_1633 ? '/v1633/Wormix.swf?v=' + Date.now() : '/game/preloader_251.swf?v=' + Date.now();
+    const url = IS_1633 ? (PATCHED ? '/v1633/patched/Wormix.swf?v=' : '/v1633/Wormix.swf?v=') + Date.now()
+                        : '/game/preloader_251.swf?v=' + Date.now();
     const base = IS_1633 ? ORIGIN + '/v1633/' : ORIGIN + '/game/';
     await wxPlayer.ruffle().load({ url, base, parameters });
     document.querySelector('#status').textContent = 'Подключение к локальному серверу…';
