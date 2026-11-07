@@ -62,3 +62,15 @@ _app_key/_app_key2/_app_link/_club_link/_app_mode/_upload_url
 - игровой сокет пока не открывается: клиент стоит на загрузке (preloader 1.63.3 нет,
   прогресс-бар рисовать некому) — следующий шаг: выяснить, откуда берутся host/port
   (`ru/pragmatix/wormix/net/*`)
+
+## Полнота выгрузки
+
+Проверка: все файлы, на которые ссылаются `data/**/*.xml` и `*.json`, присутствуют локально.
+
+- ссылок в данных: 519, неразрешённых: 0
+- файлов в `1.63.3/`: 207 (клиент + data + storage)
+- библиотеки из `resconfig.xml`: 44, все на месте (`data/social/{social}/bank.swf` -> `data/social/vkontakte/bank.swf`)
+- storage: аватары `Avatar_13..26, 30..32`, `sound/music_theme_1`, `sounds_1.53/1.62`, голоса юнитов (worm ru/en/ua/pl, boxer en/pl/ru, zombie ru)
+- исключение: `levels/` — карты приходят от сервера, статического списка в клиенте нет
+
+Дельта относительно 1.61.7: 11 новых файлов, 72 изменённых (см. `versions/1.63.3/changes.json` в arena-assets).
