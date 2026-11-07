@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>1.61.7 — автономный локальный стенд</title>
+<style>
+  body{margin:0;background:#1b1f24;color:#d7dde3;font:14px/1.4 system-ui,sans-serif}
+  header{display:flex;gap:12px;align-items:center;padding:6px 10px;background:#12161a}
+  #game{height:800px}
+  #status{color:#8fb7d9}
+</style>
+</head>
+<body>
+<header><strong>Локальный стенд</strong><span>1.61.7</span><span id="status">Загрузка…</span>
+  <span style="margin-left:auto;color:#7d8b99">offline: ассеты из ~/Projects/wormix-assets</span></header>
+<main id="game"></main>
+<script>
+'use strict';
+const ORIGIN = location.origin;
+window.RufflePlayer = { config: {
+  autoplay: 'on', unmuteOverlay: 'hidden', allowScriptAccess: true, letterbox: 'on',
+  logLevel: 'info', backgroundExecutionMode: 'mainThread', maxExecutionDuration: 120,
+  urlRewriteRules: [
+    [new RegExp('^https?://tesla\\.rmart\\.ru/engine/1\\.61\\.7/Wormix\\.swf'), ORIGIN + '/game/Wormix.swf'],
+    [new RegExp('^https?://tesla\\.rmart\\.ru/engine/1\\.61\\.7/(.*)'), ORIGIN + '/game/$1'],
+    [new RegExp('^https?://tesla\\.rmart\\.ru/engine/storage/(.*)'), ORIGIN + '/storage/$1'],
+    [new RegExp('^https?://[a-z.]*rmart\\.ru/.*/storage/(.*)'), ORIGIN + '/storage/$1'],
+    [new RegExp('^https?://wormixtest\\.com/images/(.*)'), ORIGIN + '/images/$1']
+  ],
+  socketProxy: [
+    { host: 'wormixtest.ru', port: 49197, proxyUrl: `ws://127.0.0.1:18371/socket/49197` },
+    { host: 'wormixtest.ru', port: 49198, proxyUrl: `ws://127.0.0.1:18371/socket/49198` },
+    { host: 'wormixtest.ru', port: 49199, proxyUrl: `ws://127.0.0.1:18371/socket/49199` },
+    { host: 'wormixtest.ru', port: 49297, proxyUrl: `ws://127.0.0.1:18371/socket/49297` },
+    { host: 'wormixtest.ru', port: 49298, proxyUrl: `ws://127.0.0.1:18371/socket/49298` },
+    { host: 'wormixtest.ru', port: 49299, proxyUrl: `ws://127.0.0.1:18371/socket/49299` },
+    { host: 'wormixtest.ru', port: 49300, proxyUrl: `ws://127.0.0.1:18371/socket/49300` },
+    { host: 'tesla.rmart.ru', port: 60101, proxyUrl: `ws://127.0.0.1:18371/socket/60101` },
+    { host: 'wormixtest.ru', port: 60101, proxyUrl: `ws://127.0.0.1:18371/socket/60101` }
+  ]
+}};
+
+function as3(name, ...args) {
+  try {
+    const p = window.wxPlayer && window.wxPlayer.ruffle ? window.wxPlayer.ruffle() : window.wxPlayer;
+    if (p && typeof p.callExternalInterface === 'function') return p.callExternalInterface(name, ...args);
+    if (p && typeof p[name] === 'function') return p[name](...args);
+  } catch (e) { console.warn('as3', name, e); }
+}
+
+async function callApi(method, param) {
+  try {
+    const body = new URLSearchParams(Object.assign({ method }, param || {}));
+    const result = await (await fetch('/api', { method: 'POST', body })).json();
+    as3('onApiCallback', result);
+  } catch (e) { console.warn('api', method, e); }
+}
+
+function checkTop() { as3('onCheckTop', true); }
+function registerCallbacks() { as3('onRegisterSuccess'); }
+function consoleOutput(msg) { console.log('swf:', msg); }
+
+async function start() {
+  const parameters = await (await fetch('/session')).json();
+  window.wxPlayer = RufflePlayer.newest().createPlayer();
+  document.querySelector('#game').append(wxPlayer);
+  try {
+    await wxPlayer.ruffle().load({ url: '/game/preloader_251.swf?v=' + Date.now(),
+                                   base: ORIGIN + '/game/', parameters });
+    document.querySelector('#status').textContent = 'Подключение к локальному серверу…';
+  } catch (e) {
+    document.querySelector('#status').textContent = 'Ошибка загрузки: ' + e.message;
+  }
+}
+start();
+</script>
+<script src="/ruffle/ruffle.js"></script>
+</body>
+</html>
