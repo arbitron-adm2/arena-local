@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Offline host: serves the extracted Wormix 1.61.7 assets and replays a recorded
+"""Offline host: serves the extracted 1.61.7 assets and replays a recorded
 game-server session, so the client boots with no network at all."""
 import asyncio, json, logging, os, random, time
 import pathlib
@@ -36,7 +36,7 @@ SESSION = {
 }
 PROFILE = {
     'id': 145085, 'uid': '145085', 'user_id': '145085',
-    'first_name': 'WormixTest', 'last_name': '', 'nickname': '', 'sex': 1,
+    'first_name': 'LocalTest', 'last_name': '', 'nickname': '', 'sex': 1,
     'bdate': '23.11.2000', 'country': 1, 'city': 1, 'timezone': 1,
     'photo': f'http://127.0.0.1:{PORT}/avatar.png',
     'photo_50': f'http://127.0.0.1:{PORT}/avatar.png',
