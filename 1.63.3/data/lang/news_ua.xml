@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <!-- сентябрь 2026 -->
+    <message name="PAGE0_TEXT" value="Усе це та безліч інших змін вже у грі!"/>
+    <message name="PAGE1_TEXT" value="Готуйтеся до видовищних боїв на новій карті!"/>
+    <message name="PAGE2_TEXT" value="Підказка в гардеробі допоможе розібратися із заплутаними параметрами!"/>
+    <message name="PAGE3_TEXT" value="Випробуйте в бою зміни расових здібностей!"/>
+    <message name="PAGE4_TEXT" value="Забарвлення арсеналів зроблять бої ще насиченішими!"/>
+    <message name="PAGE5_TEXT" value="Нові досягнення за проходження Попелища та щоденних квестів!"/>
+    <message name="PAGE6_TEXT" value="Додано нову зброю, щоб дати відсіч навіть найхитрішим лиходіям!"/>
+    <message name="PAGE7_TEXT" value="Досліджуйте межі своїх можливостей на складності супербосів Попелище!"/>
+
+    <message name="SHOP_BTN" value="В Магазин!"/>
+    <message name="ARMORY_BTN" value="У Збройна!"/>
+    <message name="ARENA_BTN" value="На Арену!"/>
+</dictionary>

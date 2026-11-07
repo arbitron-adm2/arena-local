@@ -9,6 +9,7 @@ from aiohttp import web, WSMsgType
 ROOT = Path(__file__).resolve().parent
 ASSETS = pathlib.Path(os.environ.get('ASSETS_DIR', ROOT / 'assets')).resolve()
 PATCHED = ROOT / 'patched'
+V1633 = ROOT / '1.63.3'
 REPLAY = ROOT / 'replay'
 PORT = 18371
 
@@ -87,6 +88,10 @@ async def game_asset(request):
         return await static_from(PATCHED, request, name)
     return await static_from(ASSETS, request, name)
 
+async def v1633_asset(request):
+    return await static_from(V1633, request, request.match_info['name'])
+
+
 async def storage_asset(request):
     return await static_from(ASSETS / 'storage', request, request.match_info['name'])
 
@@ -143,6 +148,7 @@ app.router.add_get('/status', status)
 app.router.add_get('/avatar.png', avatar)
 app.router.add_get(r'/socket/{port:\d+}', socket_replay)
 app.router.add_get(r'/game/{name:.+}', game_asset)
+app.router.add_get(r'/v1633/{name:.+}', v1633_asset)
 app.router.add_get(r'/storage/{name:.+}', storage_asset)
 app.router.add_static('/ruffle/', ROOT / 'ruffle', show_index=False)
 

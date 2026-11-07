@@ -17,10 +17,14 @@
 <script>
 'use strict';
 const ORIGIN = location.origin;
+const VERSION = new URLSearchParams(location.search).get('v') || '1.61.7';
+const IS_1633 = VERSION === '1.63.3';
 window.RufflePlayer = { config: {
   autoplay: 'on', unmuteOverlay: 'hidden', allowScriptAccess: true, letterbox: 'on',
   logLevel: 'info', backgroundExecutionMode: 'mainThread', maxExecutionDuration: 120,
   urlRewriteRules: [
+    [new RegExp('^https?://tesla\\.rmart\\.ru/engine/1\\.63\\.3/(.*)'), ORIGIN + '/v1633/$1'],
+    [new RegExp('^https?://[a-z.]*rmart\\.ru/.*/storage/(.*)'), ORIGIN + (IS_1633 ? '/v1633/storage/$1' : '/storage/$1')],
     [new RegExp('^https?://tesla\\.rmart\\.ru/engine/1\\.61\\.7/Wormix\\.swf'), ORIGIN + '/game/Wormix.swf'],
     [new RegExp('^https?://tesla\\.rmart\\.ru/engine/1\\.61\\.7/(.*)'), ORIGIN + '/game/$1'],
     [new RegExp('^https?://tesla\\.rmart\\.ru/engine/storage/(.*)'), ORIGIN + '/storage/$1'],
@@ -65,8 +69,9 @@ async function start() {
   window.wxPlayer = RufflePlayer.newest().createPlayer();
   document.querySelector('#game').append(wxPlayer);
   try {
-    await wxPlayer.ruffle().load({ url: '/game/preloader_251.swf?v=' + Date.now(),
-                                   base: ORIGIN + '/game/', parameters });
+    const url = IS_1633 ? '/v1633/Wormix.swf?v=' + Date.now() : '/game/preloader_251.swf?v=' + Date.now();
+    const base = IS_1633 ? ORIGIN + '/v1633/' : ORIGIN + '/game/';
+    await wxPlayer.ruffle().load({ url, base, parameters });
     document.querySelector('#status').textContent = 'Подключение к локальному серверу…';
   } catch (e) {
     document.querySelector('#status').textContent = 'Ошибка загрузки: ' + e.message;

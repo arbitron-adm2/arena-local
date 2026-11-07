@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- фразы в бою-->
+<!-- во всех фразах %source% кто стрелял/чей сейчас ход, %target% в кого попали-->
+<taunts>
+    <!-- начало хода-->
+    <onNextTurn>
+        <message>Ховайтеся! %source% зараз стрілятиме!</message>
+        <message>Стій! Не стріляй! Ти ж не прицілився!</message>
+		<message>Зараз щось буде...</message>
+		<message>%source%, твоя черга</message>
+		<message>%source% налаштований рішуче</message>
+		<message>Гей, %source%, стріляй уже!</message>
+		<message>%source%, що ти ще задумав?</message>
+		<message>%source%, промахнешся-промахнешся!</message>
+		<message>%source%, не поспішай, часу багато</message>
+		<message>%source%, думаєш, влучиш?</message>
+		<message>Стріляй на рахунок три! Раз...</message>
+		<message>%source%, ти прицілюйся, а я тим часом збігаю по каву...</message>
+        <message>Є тільки ми: ти, я та мортира!</message>
+        <message>%source% жадає крові!</message>
+        <message>%source% налаштований дуже рішуче</message>
+        <message>%source% у люті!</message>
+        <message>%source%, сьогодні не твій день</message>
+        <message>Найкращий захист — це напад</message>
+        <message>Настає вирішальний момент!</message>
+        <message>Час писати заповіт...</message>
+        <message>Може, сьогодні %source% влучить?</message>
+
+        <!-- 1.62 -->
+        <message>Починається час для шоу</message>
+        <message>На початку було слово, і слово було...</message>
+        <message>Ця вечірка відстій...</message>
+        <message>Здається, починається дощ...</message>
+        <message>Час готуватися до великого сюрпризу!</message>
+        <message>На рахунок три! Раз, два, три!</message>
+        <message>Здається, зараз буде спекотно...</message>
+        <message>Починається недитячий час</message>
+        <message>Настає час убивати!</message>
+        <message>Кожен із нас колись опиниться на цьому місці</message>
+        <message>І ми припиняємо нашу пряму трансляцію, адже зараз починається М'ЯСО</message>
+        <message>Сподіваюся, хоча б зараз буде справді цікаво</message>
+        <message>Час із цим покінчити</message>
+        <message>І нехай увесь світ почекає...</message>
+        <message>Можливо, на цьому ходу вирішиться чиясь доля</message>
+        <message>Що б хто не казав, а видовище це гідне</message>
+        <message>Що б хто не казав, а видовище це доволі нудне</message>
+        <message>У мій час такі бої були просто розігрівом</message>
+        <message>Готуйтеся до оборони!</message>
+        <message>Готуйтеся до наступу!</message>
+        <message>Годі базікати, час діяти!</message>
+        <message>Перший, перший, я другий!</message>
+        <message>Десь я це вже бачив...</message>
+        <message>Як щодо того, щоб трохи урізноманітнити цей бій?</message>
+        <message>Гей, красуне!</message>
+        <message>Усе наше життя — гра</message>
+        <message>Про всяк випадок увімкніть запис, раптом зараз щось буде!</message>
+        <message>У глядачів уже починає уриватися терпець</message>
+        <message>Запускайте зворотний відлік!</message>
+        <message>Яка жахлива ніч, щоб бути проклятим</message>
+        <message>Сьогодні на площі Вормікса нічого не сталося</message>
+
+        <message>Здається, %source% сьогодні у формі!</message>
+        <message>Ой-ой, це ж хід %source%!</message>
+        <message>%source% готує свій найкращий удар</message>
+        <message>Тривога! %source% починає свій хід!</message>
+        <message>Це твій зоряний час, %source%</message>
+        <message>%source%, не підведи!</message>
+        <message>%source% готовий убивати!</message>
+        <message>%source%, час — гроші!</message>
+        <message>Для тебе немає нічого неможливого, %source%</message>
+        <message>І нехай увесь світ почекає на %source%</message>
+        <message>Я так і знав, що %source% візьметься за цю справу</message>
+        <message>%source% дістає свою велику гармату</message>
+        <message>Я не думав, що %source% справді готовий битися</message>
+        <message>%source%, головне не переплутай своїх із чужими!</message>
+        <message>На нас із %source% чекає одна перемога</message>
+        <message>Як щодо перерви, %source%?</message>
+        <message>Кожен із нас колись буде як %source%</message>
+        <message>Наш спеціальний кореспондент %source% готовий до дій</message>
+        <message>Здається, %source% чекав на цей момент усе своє життя</message>
+        <message>%source%, я заплатив гроші, щоб подивитися цей бій, не підведи!</message>
+        <message>І нехай увесь світ почекає на %source%</message>
+        <message>%source% робить свій хід тихо, не поспішаючи, без метушні</message>
+        <message>Стеж за собою, %source%, будь обережний!</message>
+        <message>%source%, я поставив на тебе!</message>
+        <message>%source%, сподіваюся, у тебе вже є стратегія</message>
+        <message>Як щодо майстер-класу, %source%?</message>
+        <message>Думаю, %source% готує секретний удар</message>
+        <message>Час розкриватися, %source%</message>
+        <message>%source%, покажи, що ти приготував цього разу</message>
+        <message>Ну що, %source%, готовий убивати?</message>
+        <message>%source% вдихає запах страху своїх ворогів</message>
+        <message>Час би повертатися додому, еге ж, %source%?</message>
+        <message>%source% хоче до матусі</message>
+        <message>%source% починає щось підозрювати</message>
+        <message>Може, вже покажеш свою гармату, %source%?</message>
+        <message>%source%, не поспішай, у тебе погодинна оплата</message>
+        <message>%source% знає військову справу як абетку</message>
+        <message>%source%: розумний, але лінивий</message>
+        <message>%source% мислить, отже він точно існує</message>
+        <message>Благими намірами вимощена дорога до пекла. Будь злішим, %source%!</message>
+        <message>Уся надія на тебе, %source%!</message>
+        <message>Це твій зоряний час, %source%... шкода, що неба не видно</message>
+        <message>Ну що, %source%: показуй, що ти приготував!</message>
+        <message>Не забувайте робити перерву кожні 15 хвилин!</message>
+        <message>Поговорили — і досить. Так, %source%?</message>
+        <message>%source%, тебе не чути, увімкни рацію!</message>
+        <message>Давайте просто довіримося %source%</message>
+        <message>%source%, годі байдикувати, час воювати!</message>
+        <message>У будь-якому разі останнє слово буде за тобою, %source%</message>
+        <message>Годинник цокає, %source%!</message>
+        <message>%source%, я все прорахував: твій шанс на успіх близький до нуля</message>
+        <message>%source%, ти вже прицілюєшся?</message>
+        <message>Увага всім! Зараз %source% вас навчить</message>
+        <message>%source%, з'їж ще цих м'яких французьких булочок та випий чаю</message>
+        <message>Схоже, %source% зараз перепише історію</message>
+        <message>%source% зведений, сподіваюся, його гармата теж</message>
+        <message>Попкорн закінчився, а %source% навіть не почав ходити</message>
+        <message>%source%, на кого ти дивишся?</message>
+        <message>Як думаєте, %source% хоча б сьогодні не проспить?</message>
+        <message>У тебе є всі шанси стати легендою, %source%</message>
+        <message>%source%, стріляй часто й влучно</message>
+        <message>У гості заведено приходити з подарунком, %source%</message>
+        <message>%source%, тебе ніхто чекати не буде!</message>
+        <message>%source% виходить на полювання</message>
+        <message>У глядачів мало терпіння, %source%, дій швидко!</message>
+        <message>Цікаво, %source% читав гороскоп на сьогодні?</message>
+        <message>Цей гороскоп для тебе, %source%: тобі не варто робити цей хід</message>
+    </onNextTurn>
+    <!-- попал в противника-->
+    <onDamage>
+        <message>Влучив! Влучив!</message>
+        <message>Бачили-бачили? Влучив!</message>
+		<message>Що тут сказати... сам винен!</message>
+		<message>А я попереджав, не варто зі мною зв'язуватися!</message>
+		<message>Влучив, чи що?</message>
+		<message>Чудово!</message>
+		<message>Що? Ти ще не помер?</message>
+
+		<message>Гей, %target%, як ти там?</message>
+		<message>Ну що? Нічого відповісти?</message>
+        <message>%target%, здавайся!</message>
+        <message>%target%, благай про пощаду!</message>
+        <message>Ну все, %target%, ти програв!</message>
+        <message>%target%, та скільки в тебе там життів!</message>
+        <message>%target%, у гніві я страшний!</message>
+        <message>%target%, отримав, так?</message>
+
+        <message>%source%, рано радієш!</message>
+        <message>%source%, нарешті ти влучив. Молодець.</message>
+        <message>%source%, що це було?</message>
+        <message>%source%, це твій найкращий удар?</message>
+        <message>%source%, це і був твій "смертельний удар"?</message>
+		<message>%source%, ну й насмішив...</message>
+		<message>%source%, ти б хоч навчився стріляти.</message>
+
+        <message>Залишається тільки тебе пожаліти</message>
+
+        <message>%target%, як тобі на смак мій порох?</message>
+        <message>%target%, погрався — і досить</message>
+        <message>%target%, здавайся!</message>
+        <message>%source%, я помщуся!</message>
+        <message>%source%, повтори, ми все пропустили</message>
+
+        <!-- 1.62 -->
+        <message>Я ж нічого не пропустив?</message>
+        <message>Це треба було бачити!</message>
+        <message>Сподіваюся, всі забрали дітей від екранів?</message>
+        <message>Таке точно не показують по телевізору!</message>
+        <message>Усі лягайте!</message>
+        <message>Біль і страждання</message>
+        <message>Ну що, стерв'ятники вже злетіли?</message>
+        <message>Здається, я бачу стерв'ятників у небі!</message>
+        <message>Мені на секундочку стало страшно</message>
+        <message>У такі моменти думаю: добре ж бути коментатором</message>
+        <message>Що сталося? Я прогавив цей момент</message>
+        <message>Його приклад для нас — наука!</message>
+        <message>Це ще квіточки, далі підуть ягідки</message>
+        <message>Уже можна починати аплодувати?</message>
+        <message>Що б хто не казав, а це справді цікаве видовище</message>
+        <message>Нагадую, що ми — не дитяча гра! Тут таке трапляється...</message>
+        <message>І це навіть не найжорстокіше, що я бачив!</message>
+        <message>Це. Було. КРУТО!</message>
+        <message>Сподіваюся, ніхто не постраждав?</message>
+        <message>Що, ще не помер? Скоро ми це виправимо</message>
+        <message>Від маленької подряпини ще ніхто не помирав</message>
+        <message>Прямо в яблучко!</message>
+        <message>Повна ліквідація!</message>
+        <message>Тільки спробуйте наступного разу таке пропустити!</message>
+        <message>І що це було? Виступ аматорів?</message>
+        <message>Це навіть не трагедія, сумувати не будемо</message>
+        <message>Для когось сьогодні будуть погані новини</message>
+        <message>Сьогодні на радіо будуть лише погані звістки</message>
+        <message>Некролог у завтрашній газеті займе трохи більше місця</message>
+        <message>Жар кісток не ломить, а ось такий удар — цілком</message>
+        <message>Комусь сьогодні не варто було виходити з дому</message>
+        <message>Схоже, хтось сьогодні заробить пару бойових травм</message>
+
+        <message>Усе йде за планом, %source%</message>
+        <message>%source% сьогодні дав жару</message>
+        <message>%source% просто немає рівних</message>
+        <message>Гей, %source%, легше, так і оглухнути можна!</message>
+        <message>%source% не готовий здаватися без бою</message>
+        <message>%source% просто громить своїх ворогів!</message>
+        <message>%source% — справжній майстер своєї гармати</message>
+        <message>Для %source% немає нічого неможливого</message>
+        <message>%source% обов'язково повторить це</message>
+        <message>%source% зіпсує будь-яку вечірку</message>
+        <message>%source%, навіть Черпак б'є краще за тебе!</message>
+        <message>Для %source% це лише тренування</message>
+        <message>Схоже, %source% готовий до будь-якої брудної роботи</message>
+        <message>%source% не має наміру на цьому зупинятися</message>
+        <message>%source%, ти ж не обіцяв на цьому зупинитися?</message>
+        <message>%source% дає нам хліба та видовищ</message>
+        <message>На біс, %source%, на біс!</message>
+        <message>Із %source% краще не жартувати</message>
+        <message>Здається, %source% не був запрошений на цю вечірку</message>
+        <message>%source%, дивись: не переборщи!</message>
+        <message>Від %source% я такого не очікував...</message>
+        <message>%source%, ти працюєш за замовленнями? Мені тут потрібна одна робота...</message>
+        <message>%source%, твоя на цьому підходить до кінця</message>
+        <message>Із %source% краще не зв'язуватися...</message>
+        <message>%source% у чудовій формі</message>
+        <message>%source% був народжений, щоб убивати</message>
+        <message>%source% ще раз показав, хто тут головний</message>
+        <message>%source% думає, що він головний герой</message>
+        <message>%source% забиває черговий цвях у кришку труни</message>
+
+        <message>%target%, твої фанати трохи напружилися</message>
+        <message>Це історія твоєї смерті, %target%</message>
+        <message>Час діставати милиці для %target%</message>
+        <message>%target%, готуйся провести наступний хід у лікарні</message>
+        <message>Hasta la vista, %target%!</message>
+        <message>Мамо, викликай швидку, %target% збила фура!</message>
+        <message>%target% не може втриматися на ногах</message>
+        <message>%target%, можеш не наливати, він уже вщент п'яний</message>
+        <message>Що нас не вбиває, те робить сильнішими. Правда, %target%?</message>
+        <message>Сподіваюся, %target% встиг залишити заповіт</message>
+        <message>Перед очима %target% промайнуло все життя</message>
+        <message>%target% явно не очікував такого</message>
+        <message>%target% уже сумує за теплою постіллю</message>
+        <message>%target% знищує всі живі докази</message>
+        <message>Ну що, %target%, переосмислив своє життя?</message>
+        <message>%target%, не забув купити медичну страховку?</message>
+        <message>%target% дивом вижив!</message>
+        <message>Я вже хочу подивитися, що залишилося від %target%</message>
+        <message>%target%, вставай давай, не час стікати кров'ю!</message>
+        <message>Про компенсації поговоримо пізніше, %target%</message>
+        <message>Ніхто тебе не прикрив, %target%...</message>
+        <message>%target% опинився не в тому місці не в той час</message>
+        <message>%target% припустився критичної помилки</message>
+        <message>%target% рахує власні ребра</message>
+        <message>Не переживай, %target%, це лише невелика подряпина</message>
+        <message>Що ти на це скажеш, %target%?</message>
+        <message>%target%, твоя буде страшною...</message>
+        <message>Уже не такий крутий, так, %target%?</message>
+        <message>%target% отримав позаплановий вихідний</message>
+        <message>Вставай, %target%, час і тобі взятися за гармату!</message>
+        <message>Розшукується %target%: живим або мертвим</message>
+        <message>Ходімо зі мною, %target%</message>
+        <message>%target% став надто старим для цього всього</message>
+        <message>%target%, ти вже вибрав собі труну?</message>
+        <message>Сподіваюся, для %target% це страховий випадок</message>
+        <message>%target% на собі відчув, що означає бути NPC</message>
+        <message>%target% щойно дізнався, що таке нюанс</message>
+        <message>%target%, тебе що, танк переїхав?</message>
+        <message>%target% в одну мить втратив кілька років життя</message>
+        <message>Вже рахуєш на собі сиве волосся, %target%?</message>
+        <message>Сподіваюся, %target% не впаде в депресію після цього</message>
+    </onDamage>
+    <!-- попал в себя-->
+    <onSelfDamage>
+        <message>Кудись я не туди вистрілив...</message>
+        <message>Ой!</message>
+        <message>Я випадково!</message>
+        <message>%source%, ти в кого стріляєш?!</message>
+		<message>Гей, %source%, обережніше давай!</message>
+		<message>Не туди стріляєш!</message>
+		<message>Гей, а це за що?</message>
+		<message>Я більше не буду!</message>
+		<message>Пробачтеее...</message>
+		<message>Ой, не туди...</message>
+
+        <message>%target% — дурник</message>
+        <message>Бий своїх, жалій чужих</message>
+        <message>Ось моя тобі порада — цілись у голову</message>
+        <message>Я працюю над собою, працюю!!!</message>
+        <message>Я тебе породив, я тебе і вб'ю!</message>
+        <message>Це я тренуюся</message>
+        <message>Без коментарів</message>
+        <message>%target% усе переплутав</message>
+
+        <!-- 1.62 -->
+        <message>Іноді навіть великі помиляються</message>
+        <message>Ліс рубають — тріски летять!</message>
+        <message>Сподіваюся, людині за екраном зараз соромно</message>
+        <message>І за перегляд цього мені платять гроші?</message>
+        <message>Краще б я пішов коментувати футбол</message>
+        <message>Краще б я пішов коментувати хокей</message>
+        <message>Це нова частина "Тупий і ще тупіший"?</message>
+        <message>Хтось сьогодні встав не з тієї ноги</message>
+        <message>У цій команді дуже бракує дисципліни!</message>
+        <message>Схоже, тут є диверсанти!</message>
+        <message>Схоже, тут є зрадники!</message>
+        <message>Треба буде стерти це із відеозапису...</message>
+        <message>Це ж не показували в прямому ефірі?</message>
+        <message>Або це щось геніальне, або мені час виходити на пенсію</message>
+
+        <message>%target%, ми не в шахи граємо, тут думати треба</message>
+        <message>Мені здається, у %target% є якийсь план...</message>
+        <message>%target% час заново пройти навчання</message>
+        <message>Недарма мама %target% казала — краще було йому стати юристом</message>
+        <message>Видно, скоро %target% буде звільнений</message>
+        <message>%target%, де ти вчився стріляти? У космосі?</message>
+        <message>%target% переживає екзистенційну кризу</message>
+        <message>Схоже, %target% перебіг дорогу Оборокотню...</message>
+        <message>%target%, віддай мені клавіатуру</message>
+        <message>%target%, довго думав над цим ходом? Подумай ще</message>
+        <message>Гей, %target%, ми не за це тобі гроші платимо!</message>
+        <message>Краще б ти влучив у молоко, %target%</message>
+        <message>Напевно, тобі час на пенсію, %target%</message>
+        <message>%target% грає зовсім в іншу гру</message>
+        <message>Цей хід тобі підказала нейромережа, %target%?</message>
+    </onSelfDamage>
+</taunts>

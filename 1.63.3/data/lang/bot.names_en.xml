@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dictionary>
+    <message name="COMMON_NAMES" value="Guy,Tramp,Poser,Ladle,Recruit,Baldy,Noggin,Naked,Dude,Scoundrel,Fool,Mange,Bald Spot,Tatter,Wheel,Goldfinch,Squinty,Cross-eyed,Ragged,Tattered,Brawler,Rascal,Scamp,Slacker,Piglet,Swine,Shorty,Idler,Scatterbrain,Ragamuffin,Rogue,Boob,Gawk,Snout,Clutz,Oddball,Boor,Passerby" />
+    <!-- панамка -->
+    <message name="NAMES_FOR_HAT_1003" value="Farmer,Bumpkin,Passing tourist,Peasant,Bast Shoe,Simpleton,Serf,Hillbilly,Village idiot,Redneck,Redneck,Plowman,Agricola,Tiller,Digger,Hoe,Plow,Plowman,Garden bed,Good soul,Gardener,Gardener,Agronomist,Gardener,Eggplant,Zucchini,Harvest,Scarecrow,Weed,Pumpkins,Radish,Plowman,Crop grower,Digger,Bed planter,Seedling,Spud,Turnip,Dung beetle,Cottager" />
+    <!-- звездочет -->
+    <message name="NAMES_FOR_HAT_1025" value="Stargazer,Astrologer,Scholar,Nostradamus,Magician,Fakir,Astronomer,Prophet,Seer,Adina,Astra,Phantom Star,Castis,Ferdinand,Chazakov,Moonlight,Eridanus,Horoscope,Zodiac,Constellation,Tarot,Tarot Reader,Sci-Fi Writer,Starstruck,Cartographer,Mercury,Uranus,Pluto,Capricorn,Cepheus,Twilight,Sparkle,Starlight,Trixie,Comet,Orion,Firmament,Cosmologist,Celestial,Starfall,Polaris,Milky Way,Telescope,Sleepwalker,Aldebaran,Galaxion,Sirius,Betelgeuse,Rigel,Altair" />
+    <!-- японская прическая -->
+    <message name="NAMES_FOR_HAT_1018" value="Little Jap,Judoist,Bruce,Lee,Karateka,Genin,Jimmy,Anime,Sato,Aikido,Black Belt,Brown Belt,White Belt,Yellow Belt,Sakura,Lotus,Cherry,Sushi,Tempura,Shake Maki,Sashimi,Wasabi,Kappa Maki,Futo Maki,Tobiko,Flying Fish,Miso,Nori,Unagi,Chawanmushi,Onigiri,Oni Giri,Yakitori,Ramen,Geisha,Kimono,Daikon,Tofu,Sensei,Sushi Chef,Tanuki,Tokyo Drift,Tokyo Style,Obito,Itachi,Sai,Shino,Kiba,Hokage,Mangaka,Shuriken" />
+    <!-- цилиндр -->
+    <message name="NAMES_FOR_HAT_1006" value="Pedant,Dandy,Fop,Whippersnapper,Dandy,Trendsetter,Snob,Bigwig,VIP,Boss,Figurehead,Authority,Creosote,Very Important,Accountant,Inspector,Tailcoat,Show-off,Hipster,Maestro,Master,Clerk,Bookkeeper,Capitalist,Demagogue,Pedagogue,Top,Chamberlain,Courtier,Prim,Haughty,Punctilious,Pompous,Mafia,Mobster,Ladies' Man,Dandy,Slick,Gentleman,Monocle,Bourgeois,Treasurer,Patron,Socialite,Golden Boy,Silver Spoon" />
+    <!-- белая шапка -->
+    <message name="NAMES_FOR_HAT_1022" value="Skier,Runner,Jumper,Gymnast,Sporty,Speedwalker,Athlete,Sportsman,Beluga,January Guy,Downhill Skier,February Guy,Miner,Slalom Skier,Freestyler,Gym Teacher,Snowboard,Frostbite,Frostbitten,Icicle,Frostmancer,Bobsledder,Bobsled,Luger,Curling,Speed Skater,Figure Skater,Biathlete,Freestyle,Ski Trail,Snowman,Frosty,Frost,Bullfinch,Snowball,Snowy,Hoarfrost,Freezing Cold,Blizzard,Snowstorm,Blizzard Boy,Icicle,Snowdrift,Polar Bear" />
+    <!-- каска -->
+    <message name="NAMES_FOR_HAT_1004" value="Martinet,Serviceman,Fighter,Slasher,Jackboot,Bayonet,Veteran,Old Hand,Rookie,Dembel,Pheasant,Shell-shocked,Warrior,Callsign,Foot Soldier,Minesweeper,Demolitionist,Sapper,Digger,Mole,Guide,Sapper,Tunnel,Fuse,Detonator,Private,Lance Corporal,Infantry,Infantryman,Trenchman,Rear Guard,Sergeant,Little Sapper,Digger,Sap,Burrower,Dugout,Greatcoat,Torn Greatcoat,Rifleman,Bunker,Concussion" />
+    <!-- Шлем танкиста -->
+    <message name="NAMES_FOR_HAT_1009" value="Tanker,Battalion Commander,Artilleryman,Warrant Officer,Mercenary,Trenchman,Veteran,Rocketeer,Gunner,Coconut,Martial,Serviceman,Explosive Expert,Signaller,Marauder,Spy,Saboteur,Mercenary,Infantryman,Comrade-in-arms,Armored Car,Battleship,Caterpillar,Mechanical,Gunner,Pops,Daddy,Tractor,Engine,Diesel,Armor-Piercer,Track,Driver,Turret,Armor,Oil Can,Armor-saur" />
+    <!-- Инопланетный шлем -->
+    <message name="NAMES_FOR_HAT_1005" value="Humanoid,Darth,Alien,Sith,Imperial,Foreigner,Visitor,Jed,Jedai,Red,Lord,Sith,Vader,Adept,Fanatic,Bane,Naddist,Mecroz,Sithling,Dark,Dark Lord,Night Owl,Cosmonaut,Martian,Venusian,Mercurian,Andorian,Klingon,Romulan,Tribble,Probe,Space Rogue,Vader,Destroyer,Imposter,Sus,Among Us,Covenant,Darth Belly" />
+    <!-- Бейсбольная кепка -->
+    <message name="NAMES_FOR_HAT_1023" value="Plumber,Plumber,Baseball Player,Hard Worker,Pitcher,Striker,Pipelayer,Locksmith,Catcher,Umpire,Referee,Base,Batter,Home Run,Batsman,Slider,Infield,Outfield,Chimney Sweep,Pipe,Mushroom Picker,Mustachioed,Blue Overalls,Red Overalls,Red Cap,Thick Mustache,Jumper,White Gloves,First Base,Second Base,Third Base,Home Run,Homerunner,Outsider,Inning,Baseball Cap" />
+    <!-- Шлем викингов -->
+    <message name="NAMES_FOR_HAT_1007" value="Viking,Redhead,Varangian,Pagan,Axe,Barbarian,Seafarer,Horned,Scandinavian,Norseman,Knight,Konung,Hersir,Foring,Olaf,Hagrold,Erik,Rurik,Runic,Tailor,Norwegian,Ansuz,Uruz,Hagalaz,Algiz,Sowilo,Ehwaz,Mannaz,Odal,Dagaz,Erik the Red,Bjorn,Fjord,Halfdan,Sigurd,Harald,Linus,Torvald,Drakkar,Valhalla" />
+    <!-- Берет девочки (инкапсулирует Розовую шапку) -->
+    <message name="NAMES_FOR_HAT_1021" value="Pink Beret,Sonya,Bohemian,Annushka,Schoolgirl,Student,Lana,Lariska,Lyuda,Anka,Princess,Bonnie,Margo,Margarita,Clara,Fleur,Josephine,Camellia,Orchid,Lilac,Oktyabrina,Dazdraperma,Vladlena,Valentina,Ninel,Sophia,Sonia,Sonechka,Polina,Arina,Karina,Karisha,Milana,Eve,Bethany,Katyusha,Tanyusha,Mashenka,Masha,Irochka,Ksyusha,Varvara,Svetlana,Bohemia,Alice,Agnes,Elizabeth,Daisy,Pitaya,Guava,Lychee,Pomelo,Strawberry,Currant,Berry,Rose,Pig,Peppa,Peppa Pig,Piggy,Piglet,Raspberry,Blackberry,Barberry,Cranberry,Rowanberry,Flamingo,Marshmallow,Gummy,Caramel,Toffee,Panda,Dollie,Doll,Barbie,Venus,Donut,Cheesecake,Pink Elephant,Little Pink Elephant,Strawberry Ice Cream,Bun,Marshmallow,Marshmallow,Powder,Fruit Leather,Pastille,Candy" />
+    <!-- Берет -->
+    <message name="NAMES_FOR_HAT_1016" value="Hipster,Artist,Painter,Bard,Lyricist,Musician,Creator,Da Vinci,Sculptor,Sandro,Titian,Francesco,Giovanni,Cervantes,Clyde,Van Gogh,Fashion Designer,Visor,Peaky Blinder,Thomas,Shelby,Nocturne,Poet,Writer,Playwright,Essayist,Prose Writer,Critic,Flutist,Violinist,Double Bass,Accordion,Cellist,Composer,Creative,Impressionist,Bohemian,Easel,Palette,Rembrandt,Monet,Beethoven,Bonaparte,Thinker,Philosopher" />
+    <!-- Маньяк -->
+    <message name="NAMES_FOR_HAT_1010" value="Jack,Psycho,Executioner,Jason,Krueger,Cleaver,Sub-Zero,Hockey Player,Goaltender,Defenseman,Forward,Puck,Meteor,Pennant,Michael,Myers,Hannibal,Honka,Crimer,Slasher,Butcher,Gein,Meat Grinder,Ripper,Sack,Forester,Axe,Chainsaw,Voorhees,Pinhead,Scalp,Hockey Stick,Crutch,Elm,Ripper,Saw,Butchery,Billy,Chucky,Candy,White Pine,Bates,Bateman,Lecter,Buffalo,Meat Hook,Psychosis,Schizophrenic,Baker" />
+    <!-- Пиратская шапка -->
+    <message name="NAMES_FOR_HAT_1008" value="Pirate,Corsair,Drake,Black Dog,John Silver,Barmaley,Rum Belly,Torrent,Peering,Morgan,Jack,Captain Jack,Sparrow,Parrot,Flint,Hector,Barbossa,Bartholomew,Jones,Hook,Boarder,Interceptor,Legless,Wooden Leg,Blind Pew,Blackbeard,Black Spot,Salamander,Deck,Anchor,Cook,Fish Food,Galleon,Freebooter,Piastre,Compass,Holy Tricorn,One-eyed,Blind Eye,Marked,Sea Wolf,Boatswain,Navigator,Gunner,Treasure Hunter,Barrel,Cask" />
+    <!-- Перо индейца -->
+    <message name="NAMES_FOR_HAT_1031" value="Iroquois,Cherokee,Apache,Mohican,Comanche,Sequoia,Chinook,American,Redhead,Aztec,Native,Redskin,Bison,Guanaco,Mohawk,Pueblo,Plateau,Bison Trail,Gray-haired,Jackdaw,Arrow,Plumage,Golden Eagle,Condor,Peregrine,Hawk,Vulture,Unkilled Bear,Wigwam,Figwam,Pow-Wow,Aborigine,Blackfoot,Red Wind,Eagle Claw,Wolf Fang,Swift Deer,Rattling Arrow,Sun Bow,Brave Bison" />
+    <!-- Самурайский шлем -->
+    <message name="NAMES_FOR_HAT_1011" value="Samurai,Takeda,Oroku,Ronin,Ryu,Akira,Bushi,Tokugawa,Saigo,Hara-Kiri,Bushido,Baiken,Jiro,Scorpion,Reptile,Katana,Shinobi,Kunoichi,Shogun,Shogunate,Kendo,Wakizashi,Tanto,Naginata,Yari,Hachimaki,Menpo,Do-maru,Haramaki,Suneate,Musashi,Kenshin,Hayato,Katsuro,Tadashi,Daisuke,Yamaguchi" />
+    <!-- Гангстерская шапка -->
+    <message name="NAMES_FOR_HAT_1024" value="Slicker,Dodger,Gangsta,Gangster,Thug,Hooligan,Thug Face,Gopnik,Redneck,Riffraff,Wild One,Swindler,Cutthroat,Tattoo,Gregg,Greggory,Ruffian,Lad,Supermarket,Dough,Bro,Brother,Sawn-off,Robber,Raider,Racketeer,Criminal,Repeat Offender,Convict,Crook,Crooks,Pull,Connected,Godfather,Big Shot,Buddy,Fence,Safe-cracker,Schemer,Academic,Piece,Round Dance,Scott,Shelby" />
+    <!-- Шлем с шипами -->
+    <message name="NAMES_FOR_HAT_1012" value="Juggernaut,Sadist,Psycho,Dangerous,Furious,Punisher,Thorn,Prickly,Cactus,Rosehip,Sado,Maso,Master,Dom,Sub,Devoted,Collar,Spike,Spike,Needle,Rogue,Mastermind,Pervert,Leather,Tooth Fairy,Gimp,Wretched,Nail,Nail Puller,Sting,Brier,Hedgehog,Hedgie,Hedgehoggy,Spiky,Prickly Pete,Pin,Pin,Fence,Porcupine,Thorny,Pinhead,Cenobite,Rusty Nail,Maiden,Chain Dog,Chain" />
+    <!-- Розовый шлем -->
+    <message name="NAMES_FOR_HAT_1020" value="Valkyrie,Brunhild,Brunhilde,Kriemhild,Shieldmaiden,Lady,Maiden,Protector,Guardian,Mother,Patroness,Iron Lady,Iron Maiden,Andromeda,Sigrun,Hilda,Frigg,Beatrice,Margaret,Margarita,Ragnhild,Sigurdsdottir,Svanhild,Kolgrim,Helga,Sigrid,Gudrun,Hildegard,Wilhelmina,Gertrude,Matilda,Rose,Rosaria,Freya,Gunnhild" />
+    <!-- Сомбреро -->
+    <message name="NAMES_FOR_HAT_1029" value="Machete,Sombreros,Diego,Fidel,El Mariachi,Desperado,Mexican,Tacos,Tortilla,Quesadilla,Burrito,Fajitas,Churros,Nachos,Alejandro,Rodrigo,Eduardo,Enrico,Miguel,Santiago,Jose,Juan,Carlos,Fernando,Javier,Pablo,Antonio,Manuel,Raul,Hernandez,Tequila,Jalapeno,Enchilada,Guacamole,Chili,Amigo,Amigos,Poncho" />
+    <!-- Изысканный самурайский шлем -->
+    <message name="NAMES_FOR_HAT_1013" value="Kensai,Miyamoto,Daimyo,Shredder,Shogun,Kabayama,Nabeshima,Seppuku,Hatamoto,Samyo,Iaido,Juhappan,Kabuto,Kyoto,Hisao,Banzai,Bushi,Onna-musha,Ashigaru,Oda,Taira,Minamoto,Fujiwara,Hojo,Ashikaga,Toyotomi,Uesugi,Sanemori,Tokugawa,Samurai,Exquisite,Ronin,Kenjutsu,Bugeisha,Kage,Zensai,Katana,Honor,Sakurai" />
+    <!-- Противогаз -->
+    <message name="NAMES_FOR_HAT_1030" value="Fritz,Wolf,Chemist,Military Instructor,Infantryman,Stormtrooper,Muller,Schultz,Gasmaske,Walter,White,Jesse,Pinkman,Acidhead,Heisenberg,Smoke,Stalker,Chlorine,Gunslinger,Survivor,Physicist,Nuke Expert,Radiation,Radioactive,Toxic,Math Teacher,Isotope,Nitrogen,Phosgene,Cloud,Smog,Asthmatic,Butane,Carbonated,Soda,Gas Sniffer,Intoxication,Toxicologist,Radiologist,Filter,Hazmat,Radon,Radium,Cesium,Uranium,Uranium Guy,Plutonium,Americium,Dosimeter,Becquerel,Curie,Gray,Sievert,Rem,Marked One,Duty,Freedom,Monolith,Blowout,Anomaly,Zone,Pripyat,Alliance,Combine,Wasteland,Vault,Nuka,Chimera,Metro,Miller,Ulman,Sarcophagus,Clear Sky,Zaton,Jupiter,Vault,Atom,Core,Experiment,Sample,Specimen,Geiger,Gordon,Freeman,Adrian,Shephard,Barney,Calhoun,Kleiner,Eli,Vance,G-Man,Lambda,Half-Life,Chernobyl,Fukushima,Chemical Plant,Three Mile,Mayak,Thirteen,Enclave,Megaton" />
+    <!-- Перья Вождя -->
+    <message name="NAMES_FOR_HAT_1033" value="Chief,Rabbit Paw,Red Cloud,Hawkeye,Black Hawk,Tecumseh,Geronimo,Seattle,Coloradas,Red Sleeves,Mangas,Crazy Horse,White Feather,Wild Bull,Broken Bow,Torn Bowstring,Old Deer,Gray Lynx,Cobra,Eagle Feather,Falcon Feather,Wolf Trail,Big Buffalo,Big Bull,Fierce Boar,Quiet Water,Lone Coyote,Golden Eagle,White-maned,Sly Fox,Sleeping Bear,Thunder Bull,Red Wolf,Sun Hawk,Silver Coyote,Wolf Heart,Wild Wind,Pontiac,Osceola,Sitting Bull,Savage Horse,Cochise,Chief Joseph,Quanah Parker,Satanta,Spotted Tail,Kintpuash,Metacom,Massasoit,Uncas,Powhatan,Logan,Cornstalk,Little Turtle,Black Hoof,Gall,Moon Son,White Antelope,Golden Antelope,Fat Bear,White River" />
+    <!-- Шлем легионера -->
+    <message name="NAMES_FOR_HAT_1014" value="Gladiator,Hector,Spartan,Tribune,Legate,Destroyer,Centurion,Roman,Pontius,Pilate,Nautius,Maximus,Biggus,Commodus,Flamma,Spiculus,Bestiarius,Hoplite,Hoplomachus,Provocator,Retiarius,Bustvarius,Laquearius,Tertiarius,Thracian,Essedarius,Andabata,Crupellarius,Laticlave,Tunic,Brian,Praetorian,Senator,Quaestor,Aedile,Lictor,Augur,Decurion,Triumph,Triumphant" />
+    <!-- Изысканный шлем легионера -->
+    <message name="NAMES_FOR_HAT_1026" value="Spartacus,Legionnaire,Trojan,Captain,Leader,Instigator,Commander-in-Chief,Leader,Warlord,Defender,Leonidas,Lysander,Leo,Thibron,Achilles,Achilles,Hector,Patroclus,Nestor,Odysseus,Caesar,Augustus,Tiberius,Claudius,Nero,Hadrian,Marcus,Aurelius,Septimius,Severus,Diocletian,Saturn,Marcellus,Cassius,Brutus,Trajan,Vespasian,Titus,Caligula,Scipio,Pompey,Colosseum,Murmillo,Samnite,Rudiarius" />
+    <!-- Повязка банды якудза -->
+    <message name="NAMES_FOR_HAT_1047" value="Yakuza,Mafioso,Dragon,Serpent,Pai Mei,Hanzo,Takeshi,Hardcore,Storm,Leopard,Tiger,Tattoo,Carp,Koi,Namakubi,Knife,Pinky,Inazuma,Ryujin,Tengu,Tanuki,Okami,Magami,Kyoto,Tokyo,Oyabun,Kobun,Kitsune,Black Carp,Ryu,Wakagashira,Wakashu,Kyodai,Senpai,Teppodam,Gokudo,Bakuto,Tekiya,Yubitsume,Bosozoku" />
+    <!-- Корона древних -->
+    <message name="NAMES_FOR_HAT_1015" value="Lord,Nobleman,Nobilis,Proud One,Gogol,Tsar,Landlord,Squire,Nobleman,Aristocrat,Treasurer,Boyar,Duke,Marquis,Prince,King,Mister,Karl Marx,Boniface,Philimon,Descendant,Heir,Habsburg,Prince,Magnate,Sultan,Shah,Senor,Oligarch,His Eminence,My Lord,Baron,Regent,Jupiter,Monarch,Autocrat,Throne,Royal Prince,Crowned,Sovereign,Ruler,Sovereign Lord,Autocrat,Despot,Tyrant,Ludwig,Louis,Great,Majesty,Garden of Bones" />
+    <!-- Корона древних женская -->
+    <message name="NAMES_FOR_HAT_1017" value="Princess,Countess,Archduchess,Duchess,Marchioness,Boyarina,Queen,Mrs,Maria,Elizabeth,Catherine,Queen Piece,Lady,Heiress,Princess,Senora,Empress,Senorita,Princess,Diadem,Serene Highness,Her Eminence,My Lady,Baroness,Donna,Senorita,Frau,Mistress,Suzerain,Mademoiselle,Madame,Tsarina,Crowned,Cleopatra,Nefertiti,Athena,Hera,Karen,Mom,Mother,Sovereign Lady" />
+    <!-- Очки Нео -->
+    <message name="NAMES_FOR_HAT_1057" value="Neo,Cool Guy,Boss,Chief,Die Hard,Ace,Bateman,Lorgnette,Glassmaker,Archaeologist,Explorer,Jeweler,Mechanic,Jansen,Dispersive,Nearsighted,Nomi,Cool Girl,Forgetful,Big Boss,Programmer Zeo,Luigi Vercotti,Jack,Trump,Diamonds,Hearts,Clubs,Spades,Suit,Gambit,Jackpot,Gambler,Solitaire,Blackjack,Joker,Nine,Luck,Poker,Royal Flush,Straight,Set,Double,Matrix,Chosen One,Morpheus,Trinity,Hacker,Coder,Dealer,Royal Flush,Anderson,Rabbit,White Rabbit,Glitch,Bug,Simulation,Protagonist,NPC,System,Terminal,Kernel,Zion,Zeon,DejaVu,Bullet,Keanu,Reeves,Kung-Fu,Croupier,Raise,Call,Pass,Blind,Bankroll,Zero,Straight Flush,Four of a Kind,Casino,Deputee,Bodyguard,Balatro,Six Seven,Deploy,Framework,Stack" />
+    <!-- Огнеупорный шлем (частично инкапсулирует Каску пожарного) -->
+    <message name="NAMES_FOR_HAT_1042" value="Welder,Steelworker,Metallurgist,Refractory,Autogenous Welder,Firefighter,Burnt,Burned-on,Foundryman,Blast Furnace Worker,Anode,Cathode,Electrode,Anion,Cation,Pipe Welder,Hard Worker,Hardworking,Technician,Vocational Student,Crucible,Burner,Soldering Iron,Chromed,Steel,Cast Iron,Firing,Burner,Burner,Stove Setter,Heat-resistant,Thermal Resistant,Coke Worker,Blacksmith,Coke,Jack Coke,Blast Furnace,Roller,Forge,Furnaceman,Quenching,Tempered,Firesteel,Red-hot,Frying Pan,Roaster,Grill,Smith,Gas Welder,Smooth Seam,Electrode Box,Tungsten,Burn-through,Annealing,Cutter,Beatty,Book Burner,Open-Hearth,Forging,Little Spark,Fire Extinguisher,Carbon Monoxide" />
+    <!-- Шапка-ушанка -->
+    <message name="NAMES_FOR_HAT_1051" value="Sidorov,Mityai,Squinty,Grandpa Mazay,Stern,Old Hand,San Sanych,Ivanych,Petrovich,Pyotr Palych,Mikhailych,Vasily Ivanych,Chapaev,Ushanka,Lukashin,Ippolit,Little Man,Cheburashka,Clumsy,Bear,Northerner,Polar Explorer,Cold Fusion,Felt Boot,Beard,Bearded Man,Bitter Cold,Furs,Fur Trader,Chukchi,Lumberjack,Forester,Fisherman,Baikal,Taiga,Moonshiner,Morozov,Pavlik,Grandpa,Felt Boot,Snowdrift,Taiga,Cedar,Samovar,Boiler,Yerofey,Yerofey Pavlovich,Siberian cedar,From Taiga,Pinetree,Fir,Birch,Ivan,Kuzmich,Balalaika,Matryoshka,Stove maker,Bath,Bath attendant,Kvasnik,Harmonic,Harmony,Harmonist,Tula gingerbread,Volga" />
+    <!-- Гладиаторский шлем -->
+    <message name="NAMES_FOR_HAT_1064" value="Nord,Vandal,Savage,Deerslayer,Deserter,Robber,Varangian,Knight,Norseman,Hold,Jorund,Sigvald,Ingvar,Bardi,Thorgeir,Tormentor,Slaughterer,Executioner,Fanatic,Villain,Raider,Outcast,Forged,Cutthroat,Cannibal,Cannibal,Fiend,Hound" />
+    <!-- Шапка мастера -->
+    <message name="NAMES_FOR_HAT_1002" value="Flash,Flyer,Master,Specialist,Virtuoso,Lightning,Meteor,Electro,Breakdown,Discharge,Plasma,Turbo,Impulse,Nimble,Summer Lightning,Ball,Ray,Raylight,Radiant,Glimmer,Splinter,Searchlight,Luminary,Shorty,Contact,Draft,Whirlwind,Hurricane,Storm,Blizzard,Breeze,Squally,Cyclone,Boreas,Zephyr,Sparker,Spark Thrower,Sparkling,Thunderbolt,Thunderstrike,Thunderbird" />
+    <!-- Гоночный шлем -->
+    <message name="NAMES_FOR_HAT_1062" value="Racer,Driver,Reckless,Speedy,Diesel,Tractor Driver,Shukherillo,Hell Racer,Racecar Driver,Formula,Schumacher,Hamilton,Verstappen,Alonso,Russell,Fangio,Vettel,Lando,Max,Lewis,Asphalt Paver,Pit Stop,Gasoline,Octane,Rubber,Rubber Guy,Nitro,Asphalt,Drifter,Afterburner,Engine,Turbine" />
+    <!-- Шлем каскадера -->
+    <message name="NAMES_FOR_HAT_1063" value="Stuntman,Trickster,Dodger,Understudy,Acrobat,Biker,Daredevil,Adrenaline,Night Rider,Possessed,All-Seeing,Sprinter,Road Racer,Street Racer,Nascar,Petty,Pearson,Gordon,Allison,Waltrip,Johnson,Earnhardt,Bobby,Jeff,Darrell,Stunt,Risky,No Brakes,Twister,Somersault" />
+    <!-- Шапка аса (частично инкапсулирует Шапкобомбу) -->
+    <message name="NAMES_FOR_HAT_1000" value="Ace,Virtuoso,Fiery,Hot,Burner,Blazing,Spark,Inferno,Volcano,Little Volcano,Hill,Magma,Geyser,Lava,Arsonist,Lighter,Flint,Match,Flammable,Fever,Heat,Firebird,Supernova,Supernova,Star,Hotline,Baptized by Fire,Pyro,Pyroman,Pyromaniac,Torch,Flame Keeper,Smoke,Red Dragon,Atronach,Flamethrower,Heat Spitter,Pyrogen,Pyrogenesis,Pyrokinesis,Coal,Fumes,Flame,Cinders,Scorch,Charmander,Charizard,Vulpix,Magmar,Fire Fox,Mozilla,Will-o'-the-wisp,Firecracker,Fireworks,Firecracker,Salute,Pyrotechnician,Living Bugurt,Bugurt,Tredlife" />
+    <!-- Причёска Элвиса -->
+    <message name="NAMES_FOR_HAT_1041" value="Imitator,Double,Twin,Hipster,Elvis,Barber,Pompadour,Comb-over,Bouffant,Impostor,Fake,Fake Elvis,Imposter,Impersonator,Vegas,Rock 'n' Roller,King,Tutti-Frutti,Persona,Lacquered,Brylcreem,Forelock,British Cut,Canadian Cut,Polka,Disco,Disco Dancer,Presley,Aaron,Rockabilly,Sideburn,Memphis,Johnny,Ricky,Buddy,Holly,Jukebox,Vinyl,Vinyl Guy" />
+    <!-- Шляпа шерифа -->
+    <message name="NAMES_FOR_HAT_1032" value="Sheriff,Chuck,Ranger,Warden,Policeman,Bounty,Hunter,Bounty Hunter,Stetson,Norris,Cowboy,Cowherd,Ranch,Bison,Bounty Hunter,Cop,Village Elder,Hunter,Desert Scorpion,Wyatt,Earp,Western,Clint,Eastwood,Saddle,Mustang,Pursuer,Colt,Revolver,John,Bill,Lassiter,Frank,Drebin,Police Squad,Winchester,Eagle Eye,Front Sight,Musket,Whip,Lasso,Marshal,Law,Bailiff,Stagecoach,Pistolero,Prairie,Dry Biscuit,Arthur,Morgan,Marston,Dutch,Javier,Lenny,Indiana,Jones,Holliday,Doc Holliday,Masterson,Bat Masterson,Hickok,Wild Bill,Pat Garrett,Tom Horn,Black Bart,Blondie,Man with No Name,Short Round,Crystal Skull,Grail Seeker,Temple of Doom" />
+    <!-- Советская шапка -->
+    <message name="NAMES_FOR_HAT_1050" value="Comrade,Comrade,Siberian,Sergeant,Grumbler,Siberian,Communist,Socialist,Stalinist,Red Army Man,Red Heat,Red Banner,Standard Bearer,Padded Jacket,Patriot,Ivan Danko,Foreman,Proletarian,Working Class,Kvass,Party Member,Ideologue,Political Instructor,Pioneer,Shock Worker,Stakhanovite,Brigadier,Virgin Lander,Gosplan,Hard Worker,Rear Worker,Scarce Guy,Sakharov,Komsomol Organizer,Komsomol,Komsomol Member,Party Organizer,Party,Deficit,Queue,Canned Meat,Gingerbread,Shock Force,Five-Year Plan,Cheremsha,Omich,Department,Agitator,Subbotnik,Construction team,Khrushchevka,Communal apartment,Barack,Archipelago,Gulag,Ticket,Octobrist,October,Red October,May Day,Party,Leninist,Committee,Congress,Plenum,Politburo,Constitution,Demonstrator,Mausoleum" />
+    <!-- Повязка ниндзя -->
+    <message name="NAMES_FOR_HAT_1058" value="Ninja,Spy,Scout,Saboteur,Ghost,Shadow,Saboteur,Donatello,Leonardo,Raphael,Michelangelo,Pizza Lover,Hanzo,Saizo,Kirikagure,Winter Ghost,Phantom,Shinobi,Shinobi,Killer,Darkwing,Blue Mask,Lucien,Kunai,Shuriken,Kage,Blade,Shadowy,Silent,Claw,Ratty,Rat,Lurker,Splinter,Shredder,Karai,Baxter,Stockman,Baxter Stockman,Bebop,Foot,Clan,Foot Clan,Turtle,Cloth shell,Ninjato,Night Watchman,Night Hunter,Clan Shadow,Silent,Stealth,Stealthy,From the shadows,Shadow Blade,Purple Ninja" />
+    <!-- Маска шаман кролей -->
+    <message name="NAMES_FOR_HAT_1027" value="Shaman,Sorcerer,Healer,Rabbit,Mystic,Wizard,Houngan,Rabbitus,Enchanter,Bewitcher,Summoner,Warlock,Witch,Voodoo,Voodoo Magic,Keeper,Prophet,Ancestor,Ventriloquist,High Shaman,Doll,Puppet,Adept,Hare's Foot,Rabbit's Foot,Rabbit Hole,Floppy Ears,Carrot,Cabbage,Fluffy,Moon Rabbit,Carrot,Prophetic" />
+    <!-- Докторская повязка -->
+    <message name="NAMES_FOR_HAT_1056" value="Apothecary,Dentist,Tooth Puller,Bone Setter,Vet,Paramedic,Surgeon,Perfumer,Lab Coat,Tooth Cleaner,Scalpel,Pathologist,Resident Doctor,Chinnery,Euthanasia,Anatomist,Dissector,Vivisector,Blood Groove,Blood Collector,Placebo,Diagnosis,Sleeper,Taxidermist,Formalin Guy,Bandage,Orderly,Hippocrates,Paracelsus,Enema,Douching Bulb,Mixture,Breen,Morty,Lobotomee,Lobotomy,Morgue,Doctor Morgue,Morphine,Ether,Cyanide,Syringe,Dirty Syringe,Ampoule,Dr. Death,Dr. Evil,Angel of Death,Euthanist,Organ dealer,Organ trader,Black-market trader,Black-market dealer,Transplant specialist,Recipient,Donor,Rhesus factor,Underground doctor,Black-market doctor,Phony,Purchased diploma,Butcher,Ripper,Innards,Dissector,Autopsy,Bone saw,Hacksaw,Rusty hacksaw,Catgut,Night surgeon" />
+    <!-- Офицерская фуражка -->
+    <message name="NAMES_FOR_HAT_1052" value="Officer,Commander,Commander,Staff Officer,Colonel,General,Commissar,Tracker,Bloodhound,Viceroy,Governor,Warden,Overseer,Flatfoot,Cop,Marshal,Military Instructor,Commissar,Major,Commandant,Adjutant,General Staff,Headquarters,Generalissimo,Inspector,Boss,Staffer,Veteran" />
+    <!-- Шляпа вампира -->
+    <message name="NAMES_FOR_HAT_1055" value="Kain,Count,Bloodsucker,Ghoul,Vigilante,Alucard,Midnight Rider,Belmont,Nosferatu,Dracula,Vlad,Tepes,Bloody Baron,Mosquito,Mosquito,Night Prince,Transylvania,Carmilla,Goth,Orlok,Castlevania,Bloodsucker,Dhampir,Nosferat,Bite,Knox,Cain,Masquerade,Bloodeater,Bloody,Lilith,Lamia,Nadilya,Ghoul,Hecate,Excommunicated,Sabotnichav,Strizhoy,Shtrizhiga,Strega,Katakan,Vrikolakas,Moroy,Sava,Savanovich,Draug,Mara,Guaksa,Vetala,Brooks,Volkodav,Lestat,Claudia,Akasha,Regis,Dettlaff,Oriana,Bruja,Bathory" />
+    <!-- Черный ворон -->
+    <message name="NAMES_FOR_HAT_1061" value="Black Raven,Doctor Hook,Jekyll,Black Doctor,Black Healer,Black Physician,Inquisitor,Vision,Mirage,Ghost,Devourer,Necromancer,Cursed,Wandering,Spirit,Plague,Wesker,Victor Gideon,Lackey,Immunodeficiency,COVID,Scavenger,Jerb,Vulture,Harbinger,Warlock,Epidemy,Anaphemy,Epitaph,Cross,Eclipse,Draven,Mummified,Necrosis,Gangrene,Cadaver Poison,Numb,Rotty,Rotten,Bloated,Amoral,Graveyard Keeper,Grave Digger,Necrophile,Maria,Black Maria,Graveyard,Corpse Eater,Coprse Glutter,Necrologue,Sexton,Churchyard,Delusion,Filth,Filthy,Morana,Herald,Carrion,Vulture,Necrophage,Bearer,Tainted,Corvo,Atteno,Raven,Beak,Raven Beak,Black Beak,Rotten Beak,Nevermore,Edgar,Corvus,Corvid,Grimm,Nocturne,Sigeon Pex,Germ,Geremy,Warfare,Morena,He is from somewhere,Smell,Bubonic" />
+    <!-- Маска кролика вуду (инкапсулирует Маску доктора) -->
+    <message name="NAMES_FOR_HAT_1028" value="Puppeteer,Stranger,Healer,Rabbit,Mystic,Native,Asp,Wrathful,Evil,Shaman,Sorcerer,Houngan,Adept,Parna,Misty,Cleric,Maga-Maga,Ventriloquist,Chosen One,The Chosen,Fanatic,Postgraduate,Creator,Peter Secret,Narcissus,Trance,Totem,Rabbitmancer,Idol,Lamb,Pantheon,Ancestor Spirit,Spirit,Talisman,Amulet,Nazar,Reborn,Needle,Voodoo Curse,Reaper,Dollmaker,Pin,Pin Cushion,Totem,Hex,Healer,Wu,Witch Doctor,Sorcerer,Asclepius,Herbalist,Folk Healer,Exorcist,Compress,Fortune Teller,Voodooist,Oracle,Dancer,Whisperer,Conspirator,Sentencer,Earth,Druid,Potion Brewer,Bokor,Mambo,Loa,Gris-gris,Rabbit Snare,Bone Rabbit,Amulet,Evil Eye,Hex,Medium,Spiritist,Ectoplasm,Aura,Chakra,Needle-maker,Needle,Marionette" />
+    <!-- Акваланг -->
+    <message name="NAMES_FOR_HAT_1034" value="Scuba Diver,Diver,Deep-sea Diver,Amphibian,Diver,Ichthyander,Neptune,Poseidon,Triton,Reef,Hydronaut,Gills,Gillman,Ray,Deep One,Deep Seeker,Submariner,Deep Sea Diver,Unsinkable,Unsinkable,Plankton,Soylent,Soylent Green,Dolphin,Walrus,Bathyscaphe,Manatee,Anglerfish,Scuba,Scubanaut,Explorer,Oceanographer,Cousteau,Jacques-Yves,Squid,Octopus,Nautilus,Shark,Barracuda,Bottom,Bottomless pit,Kraken,Leviathan,Hydra,Moray eel,Anglerfish,Megalodon,Aquaman,Nemo,Freediver,Abyss,Seabed,Ocean depths,Chasm,Depth,Mariana Trench,Trench,Tank,Wetsuit,Torn fin,Sea serpent,Abyssal,Coelacanth,Coelacanth,Manta ray,Jellyfish,Coral,Atoll,Bikini,Lagoon,Challenger,Bathysphere,Trieste,Mumu,Sonar,Echo sounder,Echolocator,Oxygen tank,Leaky tank" />
+    <!-- Маска героя -->
+    <message name="NAMES_FOR_HAT_1066" value="Protector,Avenger,Winged,Floppy-eared,Night Ghost,Defender,Brave One,Valiant,Winner,Savior,Dungeon,Pointy-eared,Bat,Bat Muscle,Night Avenger,Superhero,Fruit Bat,Bruce,Wayne,Vengeance,Crusader,Caped Crusader,Gotham,Vigilante,Philanthropist,Batman,Knight,Nightwing,Nightwing,Nightwing,Nightwing,Two-Face,Cave,From Gotham" />
+    <!-- Нимб -->
+    <message name="NAMES_FOR_HAT_1065" value="Holy One,Righteous One,Monk,Viceroy,Quiet One,Radiance,Angel,Archangel,Saint,Immaculate,Pure,Illuminated,Heavenly,Blessed,Shining,Enlightened,Seraph,Gabriel,Uriel,Blessed,Ascended,Lazarus,Sinless,Michael,Peter,Cherub,Throne,Bethlehem,Faster,Recluse,Worshipper,Pilgrim,Messiah,Redeemer,Savior,Prophet,Pillar,Wonderworker,Blessed,Prelate,Righteous,Celestial,Exalted,Angel,Little Angel,Immaculate,Goldy,Godly Man,Warrior of Light,Halo,Isaac,Sunbeam,Magdalene,Guardian,Radiant,Beam of Light,Merciful,Mercy,Compassionate,Compassion,Comforter,Intercessor,Guiding,Aureole,Halo,Sacred Heart,Pure of Heart,Holy Soul,Gentle Soul,Innocent Soul" />
+    <!-- прибор ночного видения (инкапсулирует Электрошапку) -->
+    <message name="NAMES_FOR_HAT_1129" value="Punisher,Liquidator,Spy,Tactician,Shadow,Avenger,Night Hunter,Ghost,Observer,Sniper,Saboteur,Silent,Scout,Gamma,Spectrum,Stalker,Night Watch,Alpha,Delta,Victor,X-Ray,Phosphorus,Luminescent,Dispersion,Interference,Scintillator,Infrared,Ultraviolet,Thermal Imager,Nocturne,Spectral,Photon,Night Shift,Tesla,Ampere,Volta,Maxwell,Coulomb,Farad,Faraday,Ohm,Siemens,Hertz,Lorentz,Heaviside,Edison,Lenz,Popov,Alferov,Zworykin,Watt,Joule,Weber,Gauss,Henry,Electron,Positron,Proton,Ion,Anion,Cation,Plasma,Voltage,Lens,Objective lens,Eyepiece,Prism,Diaphragm,Binoculars,Hologram,Polarization,Diffraction,Refraction,Aberration,Light filter,Polarizer,Interferometer,Spectrometer,Photometer,Lux,Photomultiplier" />
+    <!-- ночная шапка -->
+    <message name="NAMES_FOR_HAT_1084" value="Owl,Eagle Owl,Night Light,Firefly,Twilight,Gloom,Midnight,Night Owl,Sleepwalker,Full Moon,New Moon,Moonless,Lunaria,Dreamer,Dream,Dusk,Shelter,Overnight Guest,Sleepyhead,Moonlight,Midnight Snack,Sandman,Somnus,Insomnia,Snore,Snorer,Pajamas,Alarm Clock,Owlet,Eagle Owl,Nightwing,Lullaby,Cradle" />
+    <!-- монах -->
+    <message name="NAMES_FOR_HAT_1102" value="Monk,Hermit,Sensei,Wanderer,Messenger,Ashigaru,Monk,Black Friar,Anchorite,Ascetic,Brother,Lama,Rishi,Bhikshu,Nirvana,Zen,Sam Shung,Sham Sung,Ku Ni Li,Shintoist,Xia O Mi,Xiao Mi,Dao-Pao,Yin,Yang,Go,Tibet,Loner,Wanderer,Wayfarer,Wandering,Shamar,Lao,Tzu,Dalai,Llama,Norbu,Guru,San Qing,Yuanshi,Tianzun,Yu-Huang,Ling-Bao,Tai-Shang,Yu-Di,Lu,Dongbin,Tieguai,Zhongli,Quan,Han,Cao,Guojiu,Guolao,Caihe,Xiangu,Sichuan,Taoist,Yogi,Sage,Voidling" />
+    <!-- зеленый ирокез -->
+    <message name="NAMES_FOR_HAT_1077" value="Cutthroat,Punk,Hooligan,Rocker,Serpent,Madman,Savage,Green-haired,Punkrocker,Dirty,Anarchist,Rebel,Shaved,Mohawk,Riffraff,Pistachio,Alga,Zelyonka,Acidic,Trip,High,Overdose,Grass,Punksaur,Moss,Grinch,Acid Hedgehog,Sniffer" />
+    <!-- авиатор -->
+    <message name="NAMES_FOR_HAT_1098" value="Navigator,Gastello,Test Pilot,Fighter,Bombardier,Pilot,Attack Pilot,Aviator,Winged,Altitude,Swift,Chkalov,Gromov,Tupolev,Boeing,Glider,Wing,Captain,Flight Radio Operator,Flight Operator,Flight Engineer,Avionics Tech,Instructor,Messer" />
+    <!-- цветной ирокез -->
+    <message name="NAMES_FOR_HAT_1078" value="Psycho,Extremist,Cutthroat,Fiery,Chameleon,Nonconformist,Mad,Rainbow,Rainbow Guy,Multicolor,Clown,Freak,Circus Performer,Daring,Dyed,Bright,Psychedelic,Psychonaut,Bad Trip,Neon,Chromat,Chromatic,Chromatism,Fluorescent,Colorful,Palette,Psychodrome,Kaleidoscope,Disco,Gradient" />
+    <!-- Капюшон -->
+    <message name="NAMES_FOR_HAT_1095" value="Hood,Archer,Van Helsing,Thief,Night Watchman,Darkwing,Cultist,Shadow,Assassin,Wayfarer,Riddle,Faceless,Glazed,Secret,Pandora,Manticore,Gloom,Qyburn,Wanderer,Covered" />
+    <!-- Крик -->
+    <message name="NAMES_FOR_HAT_1079" value="Chaos,Fang,Nightmarish,Fear,Ominous,Skull,Chilling,Ice Gator,Sleep Paralysis,Delusion,Horror,Scream,Echo,Silent,Shriek,Wheeze,Whisper,Moan,Void,Nothing,The End,Insomniac,Brainless,Cataplex,Faceless,Scary Movie,Gremlin,Somnambulist,Implicit,Lucid Dream,Doofy,Gilmore,Panic,Panicker,Shriek,Scream,Cold Sweat,Scarecrow,Whisperer,Depression,Screamer,Horror,Delirium,Dementor,Silence,Silent,Reticent,Mute" />
+    <!-- Демонический (частично инкапсулирует Челюсть) -->
+    <message name="NAMES_FOR_HAT_1080" value="Tormentor,Fiend,Risen,Fallen,Cerberus,Chaos,Beast,Fire Bull,Volcano,Hot,Hephaestus,Recruiter,Evil,Judge,Spawn,Ash,Phoenix,Prometheus,Blaze,Blazer,Furryvolution,Furryvolutionary,Imp,Incubus,Lucifer,Beelzebub,Samael,Belial,Baal,Astaroth,Underworld,Hazbin,Sin Catcher,Murderer,Alastor,Mortal Sin,Sinner,Husk,Niffty,Blitz,Blitzo,Moxxie,Millie,Asmodeus,Striker,Horn,Hoof,Tail,Mars,Little Imp,Succubus,Horned,Cauldron,Crucible,Inferno,Salamander,Helios,Samael,Dante,Vergil,Shaitan,Surtr,Abaddon,Hound,Hellish,Corrupted,Tambourine,Skull,Avenger,Devil,Ifrit,Sparkling,Dread Judge,Helluva,Sheol,Iscariot,Sulfurous,Sulfur,Deceitful,Lord,Overlord,Host of Hell,Thermite,Pentagram,Metallist" />
+    <!-- Скафандр -->
+    <message name="NAMES_FOR_HAT_1097" value="Sleepwalker,Isaac,Rocketeer,Moon Rover,Astronaut,Torpedo,Cosmonaut,Sputnik,Orbital,Galactic,Star Navigator,Cosmos,Apollo,Zarya,Weightless,Porthole,Gagarin,Starship,Black Hole,Nebula,Vortex,Vacuum" />
+    <!-- merc names -->
+    <message name="MERC_NAME_1" value="Ladle" />
+    <message name="MERC_NAME_2" value="Tourist" />
+    <message name="MERC_NAME_3" value="Troublemaker" />
+    <message name="MERC_NAME_4" value="Jackboot" />
+    <message name="MERC_NAME_5" value="Sean" />
+    <message name="MERC_NAME_6" value="Dandy" />
+    <message name="MERC_NAME_7" value="Tramp" />
+    <message name="MERC_NAME_8" value="Sith" />
+    <message name="MERC_NAME_9" value="Slicker" />
+    <message name="MERC_NAME_10" value="Striker" />
+    <message name="MERC_NAME_11" value="Hipster" />
+    <message name="MERC_NAME_12" value="Chinook" />
+    <message name="MERC_NAME_13" value="Executioner" />
+    <message name="MERC_NAME_14" value="Gastello" />
+    <message name="MERC_NAME_15" value="Garfield" />
+    <message name="MERC_NAME_16" value="Gangster" />
+    <message name="MERC_NAME_17" value="Cleaver" />
+    <message name="MERC_NAME_18" value="Recruit" />
+    <message name="MERC_NAME_19" value="Gorbash" />
+    <message name="MERC_NAME_20" value="Rogue Bear" />
+    <message name="MERC_NAME_21" value="Fidel" />
+    <message name="MERC_NAME_22" value="Fighter" />
+    <message name="MERC_NAME_23" value="Rusty" />
+    <message name="MERC_NAME_24" value="Duelist" />
+    <message name="MERC_NAME_25" value="Vandal" />
+    <message name="MERC_NAME_26" value="Astronaut" />
+    <message name="MERC_NAME_27" value="Chemist" />
+    <message name="MERC_NAME_28" value="Clumsy Oaf" />
+    <message name="MERC_NAME_29" value="Baron" />
+    <message name="MERC_NAME_30" value="Deerslayer" />
+    <message name="MERC_NAME_31" value="Shaman" />
+    <message name="MERC_NAME_32" value="Sapper" />
+    <message name="MERC_NAME_33" value="Legate" />
+    <message name="MERC_NAME_34" value="Ghost" />
+    <message name="MERC_NAME_35" value="Walter" />
+    <message name="MERC_NAME_36" value="Serpent" />
+    <message name="MERC_NAME_37" value="Virtuoso" />
+    <message name="MERC_NAME_38" value="Comrade" />
+    <message name="MERC_NAME_39" value="Terminator" />
+    <message name="MERC_NAME_40" value="Burnt" />
+    <message name="MERC_NAME_41" value="Ace" />
+    <message name="MERC_NAME_42" value="Tanker" />
+    <message name="MERC_NAME_43" value="Psycho" />
+    <message name="MERC_NAME_44" value="Invigorating" />
+    <message name="MERC_NAME_45" value="Holy One" />
+    <message name="MERC_NAME_46" value="Tooth Puller" />
+    <!-- SAMURAI_HELM -->
+    <message name="NAMES_FOR_HAT_1500" value="Kyoto,Hisao,Banzai,Daimyo,Bushi,Onna-musha,Ashigaru" />
+    <!-- RESPIRATOR -->
+    <message name="NAMES_FOR_HAT_1510" value="Acidhead,Heisenberg,Smoke,Chemist,Stalker,Chlorine,Gunslinger,Survivor" />
+    <!-- PSYKER_HELM -->
+    <message name="NAMES_FOR_HAT_1520" value="Netman,Synth,Stormtrooper,Photon,Quasar,Psycho,Manipulator,Madman,Pyrokinetik" />
+    <!-- CHAMPION_HELM -->
+    <message name="NAMES_FOR_HAT_1530" value="Leader,Olympian,Favorite,Eques,Bustvarius,Essedarius,Champion,Laurel,Bright" />
+    <!-- SPEC_OPS -->
+    <message name="NAMES_FOR_HAT_1540" value="Martial,Serviceman,Explosive Expert,Signaller,Marauder,Spy,Saboteur,Mercenary,Infantryman" />
+    <!-- STEAMPUNK_GLASSES -->
+    <message name="NAMES_FOR_HAT_1550" value="Lorgnette,Glassmaker,Archaeologist,Explorer,Jeweler,Mechanic,Jansen,Dispersive,Nearsighted" />
+    <!-- NORDIC_HELM -->
+    <message name="NAMES_FOR_HAT_1560" value="Varangian,Knight,Norseman,Konung,Hold,Jorund,Sigvald,Ingvar,Bardi,Thorgeir" />
+    <!-- FIRESHEEP_HAT -->
+    <message name="NAMES_FOR_HAT_1570" value="Tambourine,Skull,Avenger,Fallen,Fire Bull,Devil,Ifrit,Sparkling" />
+    <!-- FIRE_MASK -->
+    <message name="NAMES_FOR_HAT_1580" value="Volcano,Hot,Hephaestus,Adept,Recruiter,Evil,Judge,Spawn,Ash,Phoenix,Prometheus,Satanist" />
+    <!-- VILE_MASK Зловещий образ -->
+    <message name="NAMES_FOR_HAT_1590" value="Asp,Wrathful,Evil,Shaman,Healer,Physician,Sorcerer,Houngan,Adept,Parna" />
+    <!-- COMISSAR_HAT -->
+    <message name="NAMES_FOR_HAT_1600" value="Commissar,Tracker,Bloodhound,Viceroy,Governor,Warden,Overseer,Colonel,Major" />
+    <!-- SAPPER_HELM -->
+    <message name="NAMES_FOR_HAT_1610" value="Minesweeper,Demolitionist,Sapper,Digger,Mole,Guide,Sapper,Sap,Fuse,Detonator" />
+    <!-- GHOST_RAVEN -->
+    <message name="NAMES_FOR_HAT_1620" value="Vision,Mirage,Ghost,Devourer,Necromancer,Cursed,Wandering,Spirit,Plague" />
+    <!-- FIEND_HELM Шлем изверга -->
+    <message name="NAMES_FOR_HAT_1630" value="Tormentor,Slaughterer,Executioner,Fanatic,Tooth Fairy,Villain,Raider,Outcast,Forged,Cutthroat" />
+    <!-- HELL_RACER -->
+    <message name="NAMES_FOR_HAT_1640" value="Daredevil,Hell Racer,Adrenaline,Night Rider,Blaze,Possessed,All-Seeing,Sprinter,Road Racer,Street Racer" />
+    <!-- SITH_HOOD -->
+    <message name="NAMES_FOR_HAT_1650" value="Sith,Warrior,Guardian,Jedi,Black,Dark Lord,Night Owl" />
+    <!-- 1.31 -->
+    <message name="ARENA_MERC_NAME_1" value="Buccaneer" />
+    <message name="ARENA_MERC_NAME_2" value="Tracker" />
+    <message name="ARENA_MERC_NAME_3" value="Cold" />
+    <message name="ARENA_MERC_NAME_4" value="Bell" />
+    <message name="ARENA_MERC_NAME_5" value="Bulldozer" />
+    <message name="ARENA_MERC_NAME_6" value="Partisan" />
+    <message name="ARENA_MERC_NAME_7" value="Arsonist" />
+    <message name="ARENA_MERC_NAME_8" value="Aviator" />
+    <message name="ARENA_MERC_NAME_9" value="Jason" />
+    <!-- 1.49 -->
+    <message name="ARENA_MERC_EPIC_NAME_1" value="Dionysus" />
+    <message name="ARENA_MERC_EPIC_NAME_2" value="Oracle" />
+    <message name="ARENA_MERC_EPIC_NAME_3" value="Sharp" />
+    <message name="ARENA_MERC_EPIC_NAME_4" value="Silent" />
+    <message name="ARENA_MERC_EPIC_NAME_5" value="Technomonk" />
+    <message name="ARENA_MERC_EPIC_NAME_6" value="Quarterback" />
+    <message name="ARENA_MERC_EPIC_NAME_7" value="Swinefiend" />
+    <message name="ARENA_MERC_EPIC_NAME_8" value="Owl" />
+    <message name="ARENA_MERC_EPIC_NAME_9" value="Bibi" />
+    <!-- 1.57 -->
+    <message name="MERC_NAME_47" value="Jackdaw" />
+    <message name="MERC_NAME_48" value="Billy" />
+    <message name="MERC_NAME_49" value="Dead Man" />
+    <message name="MERC_NAME_50" value="Rogue" />
+    <message name="MERC_NAME_51" value="Toxic" />
+    <message name="MERC_NAME_52" value="Dwarf" />
+    <message name="MERC_NAME_53" value="Boruto" />
+    <message name="MERC_NAME_54" value="Mael" />
+    <message name="MERC_NAME_55" value="Ham" />
+    <message name="MERC_NAME_56" value="Horny" />
+    <message name="MERC_NAME_57" value="Pigeon" />
+    <message name="MERC_NAME_58" value="Miaowara" />
+    <message name="MERC_NAME_59" value="Dahmer" />
+    <message name="MERC_NAME_60" value="Aspic" />
+    <message name="MERC_NAME_61" value="Naked Gun" />
+    <message name="MERC_NAME_62" value="Marek" />
+    <message name="MERC_NAME_63" value="Not a Coaster" />
+    <message name="MERC_NAME_64" value="Torentino" />
+    <message name="MERC_NAME_65" value="Rebellious" />
+    <message name="MERC_NAME_66" value="Short Circuit" />
+    <message name="MERC_NAME_67" value="Donnie" />
+    <message name="MERC_NAME_68" value="Livesey" />
+    <message name="MERC_NAME_69" value="Charon" />
+    <message name="MERC_NAME_70" value="Lalo" />
+    <message name="MERC_NAME_71" value="Marley" />
+    <message name="MERC_NAME_72" value="Balrog" />
+    <message name="MERC_NAME_73" value="Vaccine" />
+    <message name="MERC_NAME_74" value="Smaug the Golden" />
+    <message name="MERC_NAME_75" value="Crusher" />
+    <message name="MERC_NAME_76" value="Floppy-eared" />
+    <message name="MERC_NAME_77" value="Azazel" />
+    <message name="MERC_NAME_78" value="Jump-Shot" />
+    <message name="MERC_NAME_79" value="Rough Sean" />
+    <!-- Челюсть -->
+    <message name="NAMES_FOR_HAT_1074" value="Jaw,Chewer,Chawer,Chomper,Glutton,Abaddon,Hound,Hellish,Corrupted,Tambourine,Skull,Avenger,Devil,Ifrit,Sparkling,Dread Judge,Helluva,Sheol,Iscariot,Sulfurous,Sulfur,Bite,Bone Gnawer,Bite,Toothy,Teethy,Grinner,Grin,Deceitful,Lord,Overlord,Host of Hell,Chisel,Fanged,Chewer,Chewer,Crocodile,Grinner,Grin,Maneater,Cannibal" />
+    <!-- Розовая шапка -->
+    <message name="NAMES_FOR_HAT_1019" value="Alice,Agnes,Elizabeth,Daisy,Pitaya,Guava,Lychee,Pomelo,Strawberry,Currant,Berry,Rose,Pig,Peppa,Peppa Pig,Piggy,Piglet,Raspberry,Blackberry,Barberry,Cranberry,Rowanberry,Flamingo,Marshmallow,Gummy,Caramel,Toffee,Panda,Dollie,Doll,Barbie,Venus,Donut,Cheesecake,Pink Elephant,Little Pink Elephant,Strawberry Ice Cream,Bun,Marshmallow,Marshmallow,Powder,Fruit Leather,Pastille,Candy" />
+    <!-- Боевая кастрюля -->
+    <message name="NAMES_FOR_HAT_1132" value="Crazy,Dave,David,Fool,Genius,Harvey,Craztopher,Crazy,Rust,Stainless Steel,Pot,Madcap,Touched,Nail,Plug,Cast Iron,Ladle,Rump,Ladle,Cook,Chef,Executive Chef,Sous Chef,Kazan,Cauldron,Pilaf,Soup,Borsch,Pan Holder,Potty,Lid,Scoop,Scooper,Cutlet,Culinary,Compote,Fat Dumpling" />
+    <!-- Электрошапка -->
+    <message name="NAMES_FOR_HAT_1131" value="Tesla,Ampere,Volta,Maxwell,Coulomb,Farad,Faraday,Ohm,Siemens,Hertz,Lorentz,Heaviside,Edison,Lenz,Popov,Alferov,Zworykin,Watt,Joule,Weber,Gauss,Henry,Electron,Positron,Proton,Ion,Anion,Cation,Plasma,Voltage" />
+    <!-- Очки Иллюзиониста -->
+    <message name="NAMES_FOR_HAT_1091" value="Parodist,Four-Eyes,Nnada,Illusion,Trick,Pocus,Magician,Test Subject,Circus Performer,Charlatan,Angus,Dummy,Vision,In Vain,Mimic,Mimicry,Mimicrator,Reckless,Houdini,Papa Lazarou,Deceiver,Pastiche,Fake,Prop Maker,Prop,Fake,Hallucination,Copycat,Hocus-Pocus,Hypnotist,Wizard" />
+    <!-- Шапкобомба -->
+    <message name="NAMES_FOR_HAT_1122" value="Little Bell,Demolitionist,Bell,Kamikaze,Bombaster,Unitbomber,Mad,Firecracker,Fireworks,Firecracker,Explosive Expert,High Explosive,Detonator,TNT,Dynamite,Salute,Grenade,Seismic,Pop,Boom,Kaboom,Shrapnel,Bomber,Boom-Boom,Bombardier,Pyrotechnician" />
+    <!-- Маска доктора -->
+    <message name="NAMES_FOR_HAT_1130" value="Healer,Wu,Witch Doctor,Sorcerer,Asclepius,Herbalist,Folk Healer,Exorcist,Compress,Fortune Teller,Voodooist,Oracle,Dancer,Whisperer,Conspirator,Sentencer,Earth,Druid,Potion Brewer" />
+    <!-- Каска пожарного -->
+    <message name="NAMES_FOR_HAT_1150" value="Firefighter,Rescuer,Fire Rescue,Firefighter,Extinguisher,Little Spark,Fire Extinguisher,Watchtower,Fire Chief,Hydrant,Carbon Monoxide,Siren,Flasher,Foam,Foamy,Fire Tamer" />
+    <!-- Шлем биотика -->
+    <message name="NAMES_FOR_HAT_1075" value="Biotic,Triotic,Tick,Psionic,Psyker,Psychic,Telepath,Cortana,Netman,Synth,Stormtrooper,Photon,Quasar,Psycho,Manipulator,Madman,Pyrokkinetic,Pulsar,Dell,Third Eye,Ether,Astral,Medium,Psychic,Telekinesis,Levitator,Impulse,Psy,Kinetic,Psychokinetic,Synapse,Mental,Brain,Processor" />
+    <!-- Шлем терминатора -->
+    <message name="NAMES_FOR_HAT_1121" value="Terminator,Hasta La Vista,Arnie,Schwartz,Shell,Skynet,Destroyer,Artificial,Computer,Zealot,Annihilator,Elysium,Genesis,Neuron,Machine,Soulless,Technomancer,Benny,Prime,Cyber,Bender,T-800,T-1000,Transistor,Thyristor,Diode,Microchip,Android,Mechanoid,Chip,Base,Emitter,Collector,Alpha,Beta,Gamma,Delta,Epsilon,Zeta,Eta,Theta,Iota,Kappa,Lambda,Mu,Nu,Xi,Omicron,Pi,Rho,Tau,Upsilon,Phi,Chi,Psi,Omega,Scrap Metal,Silicon,Server,Neural Network,Chip,Protogen,Bucket of Bolts,Vacuum Cleaner,Toaster,Calculator,Driver,Garrus,Shepard" />
+</dictionary>

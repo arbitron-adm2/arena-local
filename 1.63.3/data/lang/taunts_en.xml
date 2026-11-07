@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- фразы в бою-->
+<!-- во всех фразах %source% кто стрелял/чей сейчас ход, %target% в кого попали-->
+<taunts>
+    <!-- начало хода-->
+    <onNextTurn>
+        <message>Take cover! %source% is about to fire!</message>
+        <message>Stop! Don't shoot! You haven't even aimed!</message>
+		<message>Something's about to happen...</message>
+		<message>%source%, it's your turn</message>
+		<message>%source% is determined</message>
+		<message>Hey, %source%, just shoot already!</message>
+		<message>%source%, what are you planning now?</message>
+		<message>%source%, you'll miss, you'll miss!</message>
+		<message>%source%, take your time, we've got plenty of it</message>
+		<message>%source%, do you think you'll hit?</message>
+		<message>Shoot on three! One...</message>
+		<message>%source%, you aim while I go grab some coffee...</message>
+        <message>There's only us: you, me, and the mortar!</message>
+        <message>%source% thirsts for blood!</message>
+        <message>%source% is very determined</message>
+        <message>%source% is furious!</message>
+        <message>%source%, today's not your day</message>
+        <message>The best defense is offense</message>
+        <message>The decisive moment is here!</message>
+        <message>Time to write a will...</message>
+        <message>Maybe %source% will hit today?</message>
+
+        <!-- 1.62 -->
+        <message>Showtime begins</message>
+        <message>In the beginning was the word, and the word was...</message>
+        <message>This party sucks...</message>
+        <message>Looks like rain is coming...</message>
+        <message>Time to prepare for a big surprise!</message>
+        <message>On three! One, two, three!</message>
+        <message>Looks like things are about to heat up...</message>
+        <message>No-kids-allowed time begins</message>
+        <message>The time has come to kill!</message>
+        <message>Every one of us will end up in this spot someday</message>
+        <message>And we end our live broadcast, because now the MEAT begins</message>
+        <message>I hope it's actually interesting this time</message>
+        <message>Time to finish this</message>
+        <message>Let the whole world wait...</message>
+        <message>Perhaps someone's fate will be decided on this turn</message>
+        <message>Whatever anyone says, this is quite a spectacle</message>
+        <message>Whatever anyone says, this is a rather dull spectacle</message>
+        <message>Back in my day, fights like these were just a warm-up</message>
+        <message>Prepare for defense!</message>
+        <message>Prepare for the attack!</message>
+        <message>Enough talking, time to act!</message>
+        <message>First, first, I'm second!</message>
+        <message>I've seen this somewhere before...</message>
+        <message>How about making this fight a little more interesting?</message>
+        <message>Hey, cutie!</message>
+        <message>Our whole life is a game</message>
+        <message>Just in case, start recording. Something might happen!</message>
+        <message>The audience is already starting to lose patience</message>
+        <message>Start the countdown!</message>
+        <message>What a terrible night to be cursed</message>
+        <message>Nothing happened today in Wormix Square</message>
+
+        <message>Looks like %source% is on fire today!</message>
+        <message>Oh-oh, it's %source%'s turn!</message>
+        <message>%source% is preparing their best shot</message>
+        <message>Alert! %source% is taking their turn!</message>
+        <message>This is your moment of glory, %source%</message>
+        <message>%source%, don't let us down!</message>
+        <message>%source% is ready to kill!</message>
+        <message>%source%, time is money!</message>
+        <message>Nothing is impossible for you, %source%</message>
+        <message>Let the whole world wait for %source%</message>
+        <message>I knew %source% would take care of this</message>
+        <message>%source% pulls out their big gun</message>
+        <message>I didn't think %source% was actually ready to fight</message>
+        <message>%source%, whatever you do, don't mix up friend and foe!</message>
+        <message>%source% and I are heading for one victory</message>
+        <message>How about a break, %source%?</message>
+        <message>Every one of us will be like %source% someday</message>
+        <message>Our special correspondent %source% is ready for action</message>
+        <message>Looks like %source% has been waiting for this moment all their life</message>
+        <message>%source%, I paid money to watch this fight, don't let me down!</message>
+        <message>Let the whole world wait for %source%</message>
+        <message>%source% makes their move quietly, without rushing or fuss</message>
+        <message>Watch yourself, %source%, be careful!</message>
+        <message>%source%, I bet on you!</message>
+        <message>%source%, I hope you already have a strategy</message>
+        <message>How about a master class, %source%?</message>
+        <message>I think %source% is preparing a secret attack</message>
+        <message>Time to reveal yourself, %source%</message>
+        <message>%source%, show us what you've prepared this time</message>
+        <message>So, %source%, ready to kill?</message>
+        <message>%source% breathes in the scent of their enemies' fear</message>
+        <message>Time to go home, right, %source%?</message>
+        <message>%source% wants their mommy</message>
+        <message>%source% is starting to suspect something</message>
+        <message>How about you show us your gun already, %source%?</message>
+        <message>%source%, don't rush, you're paid by the hour</message>
+        <message>%source% knows combat like the alphabet</message>
+        <message>%source%: smart, but lazy</message>
+        <message>%source% thinks, therefore they definitely exist</message>
+        <message>Good intentions pave the road to hell. Be meaner, %source%!</message>
+        <message>You're our only hope, %source%!</message>
+        <message>This is your star moment, %source%... too bad you can't see the sky</message>
+        <message>So, %source%: show us what you've prepared!</message>
+        <message>Don't forget to take a break every 15 minutes!</message>
+        <message>We've talked enough. Right, %source%?</message>
+        <message>%source%, we can't hear you, turn on the radio!</message>
+        <message>Let's just trust %source%</message>
+        <message>%source%, enough hanging around, time to fight!</message>
+        <message>In any case, you'll have the last word, %source%</message>
+        <message>The clock is ticking, %source%!</message>
+        <message>%source%, I calculated everything: your chance of success is about zero</message>
+        <message>%source%, are you aiming yet?</message>
+        <message>Attention everyone! %source% is about to teach you a lesson</message>
+        <message>%source%, eat some more of these soft French buns, and have some tea</message>
+        <message>Looks like %source% is about to rewrite history</message>
+        <message>%source% is cocked; I hope their gun is too</message>
+        <message>The popcorn is gone, and %source% hasn't even started their turn</message>
+        <message>%source%, who are you looking at?</message>
+        <message>Do you think %source% will at least stay awake today?</message>
+        <message>You have every chance of becoming a legend, %source%</message>
+        <message>%source%, shoot often and accurately</message>
+        <message>It's customary to bring a gift when visiting, %source%</message>
+        <message>%source%, nobody is going to wait for you!</message>
+        <message>%source% is going hunting</message>
+        <message>The audience has little patience, %source%, act fast!</message>
+        <message>I wonder if %source% read today's horoscope?</message>
+        <message>This horoscope is for you, %source%: you shouldn't make this move</message>
+    </onNextTurn>
+    <!-- попал в противника-->
+    <onDamage>
+        <message>Hit! Hit!</message>
+        <message>Did you see that? I hit!</message>
+		<message>What can I say... it's their own fault!</message>
+		<message>I warned you, you shouldn't mess with me!</message>
+		<message>Did I hit?</message>
+		<message>Magnificent!</message>
+		<message>What? You're still not dead?</message>
+
+		<message>Hey, %target%, how are you doing over there?</message>
+		<message>Well? Nothing to say?</message>
+        <message>%target%, surrender!</message>
+        <message>%target%, beg for mercy!</message>
+        <message>That's it, %target%, you lost!</message>
+        <message>%target%, how many lives do you have?</message>
+        <message>%target%, I'm terrifying when I'm angry!</message>
+        <message>%target%, got that?</message>
+
+        <message>%source%, don't celebrate too soon!</message>
+        <message>%source%, you finally hit. Good job.</message>
+        <message>%source%, what was that?</message>
+        <message>%source%, is that your best shot?</message>
+        <message>%source%, was that your "deadly blow"?</message>
+		<message>%source%, you made me laugh...</message>
+		<message>%source%, you should at least learn how to shoot.</message>
+
+        <message>All I can do is pity you</message>
+
+        <message>%target%, how do you like the taste of my gunpowder?</message>
+        <message>%target%, that's enough playing</message>
+        <message>%target%, surrender!</message>
+        <message>%source%, I will get revenge!</message>
+        <message>%source%, do it again, we missed everything</message>
+
+        <!-- 1.62 -->
+        <message>I didn't miss anything, did I?</message>
+        <message>You had to see that!</message>
+        <message>I hope everyone got the children away from the screens?</message>
+        <message>They definitely don't show this on TV!</message>
+        <message>Everybody down!</message>
+        <message>Pain and suffering</message>
+        <message>So, have the vultures taken flight yet?</message>
+        <message>Looks like I see vultures in the sky!</message>
+        <message>For a second there, I got scared</message>
+        <message>At times like this I think: it's good to be a commentator</message>
+        <message>What happened? I missed that moment</message>
+        <message>His example is a lesson for us all!</message>
+        <message>These are just the flowers; the berries are coming next</message>
+        <message>Can we start applauding yet?</message>
+        <message>Whatever anyone says, this really is an entertaining spectacle</message>
+        <message>I remind you, we're not a children's game! Things like this happen here...</message>
+        <message>And this isn't even the most brutal thing I've seen!</message>
+        <message>That. Was. AWESOME!</message>
+        <message>I hope nobody got hurt?</message>
+        <message>What, still not dead? We'll fix that soon</message>
+        <message>Nobody ever died from a little scratch</message>
+        <message>Right in the bullseye!</message>
+        <message>Total elimination!</message>
+        <message>Just try to miss something like that next time!</message>
+        <message>And what was that? An amateur performance?</message>
+        <message>That's not even a tragedy, we won't miss you</message>
+        <message>Someone's getting bad news today</message>
+        <message>Only bad news on the radio today</message>
+        <message>Tomorrow's obituary is going to take up a little more space</message>
+        <message>Heat doesn't break bones, but a hit like that sure does</message>
+        <message>Someone really shouldn't have left the house today</message>
+        <message>Looks like someone's going to earn a couple of battle scars today</message>
+
+        <message>Everything is going according to plan, %source%</message>
+        <message>%source% really brought the heat today</message>
+        <message>%source% has no equal</message>
+        <message>Hey, %source%, easy! You could make someone go deaf!</message>
+        <message>%source% isn't ready to surrender without a fight</message>
+        <message>%source% is absolutely crushing their enemies!</message>
+        <message>%source% is a true master of their gun</message>
+        <message>Nothing is impossible for %source%</message>
+        <message>%source% will definitely do it again</message>
+        <message>%source% ruins every party</message>
+        <message>%source%, even the Ladle hits harder than you!</message>
+        <message>For %source%, this is just training</message>
+        <message>Looks like %source% is ready for any dirty job</message>
+        <message>%source% doesn't intend to stop here</message>
+        <message>%source%, you weren't planning to stop there, were you?</message>
+        <message>%source% gives us bread and circuses</message>
+        <message>Encore, %source%, encore!</message>
+        <message>Better not joke around with %source%</message>
+        <message>Looks like %source% wasn't invited to this party</message>
+        <message>%source%, watch it: don't overdo it!</message>
+        <message>I didn't expect that from %source%...</message>
+        <message>%source%, do you work on commission? I've got a little job for you...</message>
+        <message>%source%, your time here is coming to an end</message>
+        <message>Better not mess with %source%...</message>
+        <message>%source% is in top form</message>
+        <message>%source% was born to kill</message>
+        <message>%source% showed once again who's boss</message>
+        <message>%source% thinks they're the main character</message>
+        <message>%source% is driving another nail into the coffin lid</message>
+
+        <message>%target%, your fans are getting a little nervous</message>
+        <message>This is the story of your death, %target%</message>
+        <message>Time to get the crutches for %target%</message>
+        <message>%target%, get ready to spend your next turn in the hospital</message>
+        <message>Hasta la vista, %target%!</message>
+        <message>Mom, call an ambulance, %target% got hit by a truck!</message>
+        <message>%target% can't stay on their feet</message>
+        <message>%target%, no need to pour him a drink, he's already wasted</message>
+        <message>What doesn't kill us makes us stronger. Right, %target%?</message>
+        <message>I hope %target% remembered to leave a will</message>
+        <message>%target%'s whole life flashed before their eyes</message>
+        <message>%target% clearly didn't expect that</message>
+        <message>%target% is already missing their warm bed</message>
+        <message>%target% destroys all living evidence</message>
+        <message>So, %target%, have you rethought your life?</message>
+        <message>%target%, did you remember to buy medical insurance?</message>
+        <message>%target% survived by a miracle!</message>
+        <message>I already want to see what's left of %target%</message>
+        <message>%target%, get up, come on, it's not time to bleed out!</message>
+        <message>We'll talk about compensation later, %target%</message>
+        <message>Nobody had your back, %target%...</message>
+        <message>%target% was in the wrong place at the wrong time</message>
+        <message>%target% made a critical mistake</message>
+        <message>%target% is counting their own ribs</message>
+        <message>Don't worry, %target%, it's just a little scratch</message>
+        <message>What do you have to say to that, %target%?</message>
+        <message>%target%, yours will be terrifying...</message>
+        <message>Not so cool anymore, are you, %target%?</message>
+        <message>%target% got an unscheduled day off</message>
+        <message>Get up, %target%, time for you to grab your gun too!</message>
+        <message>Wanted: %target%, dead or alive</message>
+        <message>Come with me, %target%</message>
+        <message>%target% has gotten too old for this</message>
+        <message>%target%, have you picked out your coffin yet?</message>
+        <message>I hope this is an insurance claim for %target%</message>
+        <message>%target% has experienced what it means to be an NPC</message>
+        <message>%target% just learned what a nuance is</message>
+        <message>%target%, did a tank run you over?</message>
+        <message>%target% just lost several years of their life in an instant</message>
+        <message>Counting your gray hairs yet, %target%?</message>
+        <message>I hope %target% doesn't fall into depression after this</message>
+    </onDamage>
+    <!-- попал в себя-->
+    <onSelfDamage>
+        <message>I shot the wrong way...</message>
+        <message>Oops!</message>
+        <message>It was an accident!</message>
+        <message>%source%, who are you shooting at?!</message>
+		<message>Hey, %source%, careful!</message>
+		<message>You're shooting the wrong way!</message>
+		<message>Hey, what did I do to deserve that?</message>
+		<message>I won't do it again!</message>
+		<message>Sooorry...</message>
+		<message>Oops, wrong way...</message>
+
+        <message>%target% is a fool</message>
+        <message>Spare your enemies, hit your own</message>
+        <message>Here's my advice to you – aim for the head</message>
+        <message>I'm working on myself, I am!!!</message>
+        <message>I brought you into this world, and I'll take you out!</message>
+        <message>I'm just practicing</message>
+        <message>No comment</message>
+        <message>%target% got everything mixed up</message>
+
+        <!-- 1.62 -->
+        <message>Even the great make mistakes sometimes</message>
+        <message>You cut down trees, chips will fly!</message>
+        <message>I hope the person behind the screen is ashamed right now</message>
+        <message>And they pay me money to watch this?</message>
+        <message>I should have gone to commentate football instead</message>
+        <message>I should have gone to commentate hockey instead</message>
+        <message>Is this the new sequel to "Dumb and Dumber"?</message>
+        <message>Someone got out of bed on the wrong side today</message>
+        <message>This team really lacks discipline!</message>
+        <message>Looks like there are saboteurs here!</message>
+        <message>Looks like there are traitors here!</message>
+        <message>We'll have to erase this from the recording...</message>
+        <message>They didn't show that live, did they?</message>
+        <message>Either this is something brilliant, or it's time for me to retire</message>
+
+        <message>%target%, we're not playing chess, you have to think here</message>
+        <message>I think %target% has some kind of plan...</message>
+        <message>%target% needs to go through training again</message>
+        <message>No wonder %target%'s mom said they should have become a lawyer</message>
+        <message>Looks like %target% is going to be fired soon</message>
+        <message>%target%, where did you learn to shoot? In space?</message>
+        <message>%target% is experiencing an existential crisis</message>
+        <message>Looks like %target% crossed the Werewolf's path...</message>
+        <message>%target%, hand me the keyboard</message>
+        <message>%target%, did you think long about that move? Think again</message>
+        <message>Hey, %target%, that's not what we're paying you for!</message>
+        <message>You should have hit the milk instead, %target%</message>
+        <message>Maybe it's time for you to retire, %target%</message>
+        <message>%target% is playing a completely different game</message>
+        <message>Did a neural network suggest this move to you, %target%?</message>
+    </onSelfDamage>
+</taunts>

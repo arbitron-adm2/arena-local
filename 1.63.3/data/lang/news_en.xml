@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <!-- сентябрь 2026 -->
+    <message name="PAGE0_TEXT" value="All of this and many other changes are exactly in the game right now!"/>
+    <message name="PAGE1_TEXT" value="Get ready for spectacular battles on the new map!"/>
+    <message name="PAGE2_TEXT" value="Tooltips in the wardrobe will help you figure out complex parameters!"/>
+    <message name="PAGE3_TEXT" value="Try out the changes to unit abilities in combat!"/>
+    <message name="PAGE4_TEXT" value="Arsenal color presets will make battles even more intense!"/>
+    <message name="PAGE5_TEXT" value="New achievements for completing The Ash and daily quests!"/>
+    <message name="PAGE6_TEXT" value="New weapons have been added to fight back even the most cunning villains!"/>
+    <message name="PAGE7_TEXT" value="Test the limits of your power on The Ash superboss difficulty!"/>
+
+    <message name="SHOP_BTN" value="To the shop!"/>
+    <message name="ARMORY_BTN" value="To the armory!"/>
+    <message name="ARENA_BTN" value="To Arena!"/>
+</dictionary>
